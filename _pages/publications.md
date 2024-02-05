@@ -20,7 +20,21 @@ You can also find my articles on my <a href="https://orcid.org/0000-0002-5653-51
 <!-- <p style = "margin-right: 210px;"> -->
 <!-- </p>-->
 
+<img align="left" src="/images/artificial.png" width="150" style="margin-right:10px"/> <span style="color:#155270;">**Artificial Neural Networks Based State Transition Modeling and Place Categorization** </span> <br>
+<span style="font-size:smaller">**Andreas Kriegler** </span> <br>
+<span style="font-size:smaller"> Konferenz der Mechatronik Plattform Österreich 2018, pp.44-45, 2018. </span>
+[URI](http://www.mechatronik-plattform.at/home/wp-content/uploads/2019/06/Tagungsband_Konferenz_MP_Oesterreich_2018.pdf){: .btn .btn--primary .btn--small}<br style="clear" />
+
+
 ## <span style="color:#155270;">Thesis </span>
+<img align="left" src="/images/semantic.png" width="100" style="margin-right:10px"/> <span style="color:#155270;">**Visual Semantic Context Encoding for Data Harvesting and Domain Prediction** </span> <br>
+<span style="font-size:smaller">**Andreas Kriegler** </span> <br>
+<span style="font-size:smaller"> Thesis, UAS Technikum Wien, 2020. </span>
+
+<img align="left" src="/images/place_results_table.png" width="100" style="margin-right:10px"/> <span style="color:#155270;">**Artificial Neural Networks based State Transition Modeling and Place Categorization** </span> <br>
+<span style="font-size:smaller">**Andreas Kriegler** </span> <br>
+<span style="font-size:smaller"> Thesis, UAS Technikum Wien, 2018. </span>
+
 <img align="left" src="/images/oas_system.png" width="100" style="margin-right:10px"/> <span style="color:#155270;">**Neuentwicklung der Schlackeauswurferkennung auf der Basis von MATLAB** </span> <br>
 <span style="font-size:smaller">**Andreas Kriegler** </span> <br>
 <span style="font-size:smaller"> Thesis, UAS Technikum Wien, 2018. </span>
