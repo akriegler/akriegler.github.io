@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my publications on my <a href="https://orcid.org/0000-0002-5653-5181">ORCiD</a> (maintained) or <a href="https://scholar.google.com/citations?user=xzhMsboAAAAJ&hl=en">Google Scholar</a> profiles.
+You can also find my publications on <a href="https://orcid.org/0000-0002-5653-5181">ORCiD</a> (maintained) or <a href="https://scholar.google.com/citations?user=xzhMsboAAAAJ&hl=en">Google Scholar</a>.
 
 
 ## <span style="color:#155270;">Journal articles</span>
