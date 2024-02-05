@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Andreas Kriegler"
-  avatar           : "avatar.jpg"
+  avatar           : "profile_pic.png"
   bio              : "Researching computer vision, specifically (symmetry-aware) 6D pose estimation, for robotics.
                       <br> <br> 
                       PhD student at the <a style='color: black;' href='https://cvl.tuwien.ac.at/'>CVL at TU Wien </a>, <a style='color: black;' href='https://informatics.tuwien.ac.at/orgs/e193'>Institute of Visual Computing & Human-Centered Technology</a>

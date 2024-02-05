@@ -17,5 +17,3 @@ Research
 Background
 ======
 
-Other academic endeavours
-======
