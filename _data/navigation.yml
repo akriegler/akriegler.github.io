@@ -4,10 +4,13 @@ main:
     url: /publications/
 
   - title: "Activities"
-    url: /teaching/
+    url: /activities/
 
   - title: "Teaching"
     url: /teaching/
     
   - title: "CV"
     url: /cv/
+
+  - title: "Contact"
+    url: /contact/

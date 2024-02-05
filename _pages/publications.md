@@ -75,11 +75,9 @@ You can also find my publications on <a href="https://orcid.org/0000-0002-5653-5
 <img align="left" src="/images/place_results_table.png" width="150" style="margin-right:10px"/> <span style="color:#155270;">**Artificial Neural Networks based State Transition Modeling and Place Categorization** </span> <br>
 <span style="font-size:smaller">**Andreas Kriegler** </span> <br>
 <span style="font-size:smaller"> Thesis, UAS Technikum Wien, 2018. </span> <br>
-[RG](https://www.researchgate.net/publication/352211259_Artificial_Neural_Networks_based_State_Transition_Modeling_and_Place_Categorization){: .btn .btn--primary .btn--small}<br style="clear" /> <br>
+[link](https://www.researchgate.net/publication/352211259_Artificial_Neural_Networks_based_State_Transition_Modeling_and_Place_Categorization){: .btn .btn--primary .btn--small}<br style="clear" /> <br>
 
-<img align="left" src="/images/oas_system.png" width="150" style="margin-right:10px"/> <span style="color:#155270;">[**Neuentwicklung der Schlackeauswurferkennung auf der Basis von MATLAB**](https://www.researchgate.net/publication/352211347_Neuentwicklung_der_Schlackeauswurferkennung_auf_der_Basis_von_MATLAB) </span> <br>
+<img align="left" src="/images/oas_system.png" width="150" style="margin-right:10px"/> <span style="color:#155270;">**Neuentwicklung der Schlackeauswurferkennung auf der Basis von MATLAB** </span> <br>
 <span style="font-size:smaller">**Andreas Kriegler** </span> <br>
 <span style="font-size:smaller"> Thesis, UAS Technikum Wien, 2018. </span> <br>
-
-
-[RG](https://www.researchgate.net/publication/352211347_Neuentwicklung_der_Schlackeauswurferkennung_auf_der_Basis_von_MATLAB){: .btn .btn--primary .btn--small}<br style="clear" /> <br>
+[link](https://www.researchgate.net/publication/352211347_Neuentwicklung_der_Schlackeauswurferkennung_auf_der_Basis_von_MATLAB){: .btn .btn--primary .btn--small}<br style="clear" /> <br>
