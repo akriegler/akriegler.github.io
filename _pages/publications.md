@@ -5,11 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on my <a href="https://orcid.org/0000-0002-5653-5181">ORCiD</a>(maintained) or <a href="https://scholar.google.com/citations?user=xzhMsboAAAAJ&hl=en">Google Scholar</a> profiles.
+You can also find my publications on my <a href="https://orcid.org/0000-0002-5653-5181">ORCiD</a> (maintained) or <a href="https://scholar.google.com/citations?user=xzhMsboAAAAJ&hl=en">Google Scholar</a> profiles.
 
 
 ## <span style="color:#155270;">Journal articles</span>
-<img align="left" src="/images/generic.png" width="200" style="margin-right:10px"/> <span style="color:#155270;">**PrimitivePose: Generic Model and Representation for 3D Bounding Box Prediction of Unseen Objects** </span> <br>
+<img align="left" src="/images/primitive.png" width="200" style="margin-right:10px"/> <span style="color:#155270;">**PrimitivePose: Generic Model and Representation for 3D Bounding Box Prediction of Unseen Objects** </span> <br>
 <span style="font-size:smaller">**Andreas Kriegler**, Csaba Beleznai, Margrit Gelautz, Markus Murschitz, Kai Göbel</span> <br>
 <span style="font-size:smaller"> International Journal of Semantic Computing (IJSC), 17(3),  pp.387-410, 2023. </span> <br>
 [URI](https://www.worldscientific.com/doi/10.1142/S1793351X23620027){: .btn .btn--primary .btn--small}<br style="clear" /> <br>
@@ -20,12 +20,12 @@ You can also find my articles on my <a href="https://orcid.org/0000-0002-5653-51
 <span style="font-size:smaller"> 16th Asia Conference on Computer Vision (ACCV 2022) - The Fourth International Workshop on Machine Learning and Computing for Visual Semantic Analysis, pp.147-163, 2022. </span> <br>
 [URI](https://openaccess.thecvf.com/content/ACCV2022W/MLCSA/papers/Steininger_Towards_Scene_Understanding_for_Autonomous_Operations_on_Airport_Aprons_ACCVW_2022_paper.pdf){: .btn .btn--primary .btn--small}<br style="clear" /> <br>
 
-<img align="left" src="/images/primitive.png" width="200" style="margin-right:10px"/> <span style="color:#155270;">**PrimitivePose: 3D Bounding Box Prediction of Unseen Objects via Synthetic Geometric Primitives** </span> <br>
+<img align="left" src="/images/3D_annotation.png" width="200" style="margin-right:10px"/> <span style="color:#155270;">**PrimitivePose: 3D Bounding Box Prediction of Unseen Objects via Synthetic Geometric Primitives** </span> <br>
 <span style="font-size:smaller">**Andreas Kriegler**, Csaba Beleznai, Markus Murschitz, Kai Göbel, Margrit Gelautz</span> <br>
 <span style="font-size:smaller"> International Conferece on Robotic Computing (IRC), pp.190-197, 2022. </span> <br>
 [URI](https://ieeexplore.ieee.org/document/10023891){: .btn .btn--primary .btn--small}<br style="clear" /> <br>
 
-<img align="left" src="/images/pardigma.png" width="200" style="margin-right:10px"/> <span style="color:#155270;">**Paradigmatic Revolutions in Computer Vision** </span> <br>
+<span style="color:#155270;">**Paradigmatic Revolutions in Computer Vision** </span> <br>
 <span style="font-size:smaller">**Andreas Kriegler**</span> <br>
 <span style="font-size:smaller"> Advances in Neural Information Processing Systems 35 (NeurIPS 2022) - I Can't Believe It's Not Better (ICBINB) Workshop, 2022. </span> <br>
 [URI](https://drive.google.com/file/d/1ItDGcljAQOYo-HKHJLcC4gAgapCIQPns/view){: .btn .btn--primary .btn--small}<br style="clear" /> <br>
@@ -50,12 +50,17 @@ You can also find my articles on my <a href="https://orcid.org/0000-0002-5653-51
 <span style="font-size:smaller"> International Conference on Computer Vision (ICCV) Workshops, pp.3823-3832, 2021. </span> <br>
 [URI](https://doi.org/10.1109/ICCVW54120.2021.00426){: .btn .btn--primary .btn--small}<br style="clear" /> <br>
 
+<img align="left" src="/images/artificial.png" width="200" style="margin-right:10px"/> <span style="color:#155270;">**Artificial Neural Networks Based Place Categorization** </span> <br>
+<span style="font-size:smaller">**Andreas Kriegler**, Wilfried Wöber, Mohamed Aburaia </span> <br>
+<span style="font-size:smaller"> The International Symposium for Production Research (ISPR), pp.201-209, 2020. </span> <br>
+[URI](https://doi.org/10.1007/978-3-030-62784-3_17){: .btn .btn--primary .btn--small}<br style="clear" /> <br>
+
 <img align="left" src="/images/docking.png" width="200" style="margin-right:10px"/> <span style="color:#155270;">**Vision-based Docking of a Mobile Robot** </span> <br>
 <span style="font-size:smaller">**Andreas Kriegler**, Wilfried Wöber </span> <br>
 <span style="font-size:smaller"> Joint Austrian Computer Vision and Robotics Workshop (ACVRW) 2020, pp.6-12, 2020. </span> <br>
 [URI](https://openlib.tugraz.at/download.php?id=5f6af343ccab6&location=browse){: .btn .btn--primary .btn--small}<br style="clear" /> <br>
 
-<img align="left" src="/images/artificial.png" width="200" style="margin-right:10px"/> <span style="color:#155270;">**Artificial Neural Networks Based State Transition Modeling and Place Categorization** </span> <br>
+<span style="color:#155270;">**Artificial Neural Networks Based State Transition Modeling and Place Categorization** </span> <br>
 <span style="font-size:smaller">**Andreas Kriegler** </span> <br>
 <span style="font-size:smaller"> Konferenz der Mechatronik Plattform Österreich 2018, pp.44-45, 2018. </span> <br>
 [URI](http://www.mechatronik-plattform.at/home/wp-content/uploads/2019/06/Tagungsband_Konferenz_MP_Oesterreich_2018.pdf){: .btn .btn--primary .btn--small}<br style="clear" /> <br>
