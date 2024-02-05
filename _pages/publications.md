@@ -21,12 +21,7 @@ You can also find my articles on my <a href="https://orcid.org/0000-0002-5653-51
 <!-- </p>-->
 
 ## <span style="color:#155270;">Thesis</span>
-<img align="left" src="/images/individual_fig1.png" width="200" style="margin-right:10px"/> <span style="color:#155270;">**Behavior measures are predicted by how information is encoded in an individual's brain.**</span> <br>
+<img align"left" src="/images/oas_system.png" width = "100" style="margin-right:10px"/>
+<span style="color:#155270">**Neuentwicklung der Schlackeauswurferkennung auf der Basis von MATLAB**</span> <br>
 <span style="font-size:smaller">**Andreas Kriegler**</span> <br>
-[RG](https://www.researchgate.net/publication/352211347_Neuentwicklung_der_Schlackeauswurferkennung_auf_der_Basis_von_MATLAB?channel=doi&linkId=60bf164ca6fdcc22eae8d0cd&showFulltext=true){: .btn .btn--primary .btn--small}<br style="clear:both" />
-<img align="left" src="/images/individual_fig1.png" width="200" style="margin-right:10px"/> <span style="color:#155270;">**Behavior measures are predicted by how information is encoded in an individual's brain.**</span> <br>
-<span style="font-size:smaller">**Andreas Kriegler**</span> <br>
-[RG](https://www.researchgate.net/publication/352211347_Neuentwicklung_der_Schlackeauswurferkennung_auf_der_Basis_von_MATLAB?channel=doi&linkId=60bf164ca6fdcc22eae8d0cd&showFulltext=true){: .btn .btn--primary .btn--small}<br style="clear:both" />
-<img align="left" src="/images/individual_fig1.png" width="200" style="margin-right:10px"/> <span style="color:#155270;">**Neuentwicklung der Schlackeauswurferkennung auf der Basis von MATLAB.**</span> <br>
-<span style="font-size:smaller">**Andreas Kriegler**</span> <br>
-[RG](https://www.researchgate.net/publication/352211347_Neuentwicklung_der_Schlackeauswurferkennung_auf_der_Basis_von_MATLAB?channel=doi&linkId=60bf164ca6fdcc22eae8d0cd&showFulltext=true){: .btn .btn--primary .btn--small}<br style="clear:both" />
+<span style="font-size:smaller"> Thesis, UAS Technikum Wien, 2018.</span>
