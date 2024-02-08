@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Activities"
-    url: /activities/
-
   - title: "Teaching"
     url: /teaching/
+
+  - title: "Activities"
+    url: /activities/
     
   - title: "CV"
     url: /files/krieglera_2024_02_cv_public.pdf
