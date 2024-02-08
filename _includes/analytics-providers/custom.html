@@ -1,4 +1,6 @@
 <!-- start custom analytics snippet -->
+    <a>Visitor Count: <span id="visitorCount"></span></a>
+
 <script>
     // Function to increment the visitor count
     function incrementVisitorCount() {
@@ -13,11 +15,12 @@
         // Update the visitor count in the localStorage
         localStorage.setItem('visitorCount', count);
         // Update the count displayed on the page
+        console.log("Count:", count); // Check the count value
         document.getElementById('visitorCount').innerText = count;
     }
 
     // Call the incrementVisitorCount function when the page loads
-    window.addEventListener('load', incrementVisitorCount);
+    incrementVisitorCount();
 </script>
 
 <!-- end custom analytics snippet -->
