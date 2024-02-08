@@ -38,8 +38,11 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
-        {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {% assign formatted_date = post.date | default: "1900-01-01" | date: "%Y-%m-%d" %} {{ formatted_date | remove: '-' | remove: '1900' }}</p>
+       {% if post.collection == 'teaching' %}
+          {% assign year = post.date | date: "%Y" %}
+          {% assign month = post.date | date: "%m" %}
+          {% assign day = post.date | date: "%d" %}
+          <p>{{ post.type }}, <i>{{ post.venue }}</i>, {% if year != "1900" %}{{ year }}{% endif %}{% if month != "01" %}-{{ month }}{% endif %}{% if day != "01" %}-{{ day }}{% endif %}</p>
         {% elsif post.collection == 'publications' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.date %}
