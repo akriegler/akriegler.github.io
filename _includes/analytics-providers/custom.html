@@ -1,3 +1,23 @@
 <!-- start custom analytics snippet -->
+<script>
+    // Function to increment the visitor count
+    function incrementVisitorCount() {
+        // Retrieve current visitor count from localStorage
+        let count = localStorage.getItem('visitorCount');
+        // If visitor count is not set, initialize it to 0
+        if (!count) {
+            count = 0;
+        }
+        // Increment the visitor count
+        count++;
+        // Update the visitor count in the localStorage
+        localStorage.setItem('visitorCount', count);
+        // Update the count displayed on the page
+        document.getElementById('visitorCount').innerText = count;
+    }
+
+    // Call the incrementVisitorCount function when the page loads
+    window.addEventListener('load', incrementVisitorCount);
+</script>
 
 <!-- end custom analytics snippet -->
