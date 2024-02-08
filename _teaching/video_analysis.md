@@ -4,7 +4,7 @@ collection: teaching
 teaching_type: "Course"
 permalink: /teaching/video_analysis/ 
 institution: "TU Wien, Faculty of Informatics"
-date: 2021-10-01
+date: 01-01-2021
 excerpt: "<i>Master's course, Guest lecture, Teaching assistant</i><br/>"
 ---
 
