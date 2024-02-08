@@ -1,9 +1,10 @@
 ---
 title: "Video Analysis (188.329)"
 collection: teaching
-teaching_type: "Graduate course"
+teaching_type: "Course"
 permalink: /teaching/video_analysis/ 
-institution: "TU Wien"
+institution: "TU Wien, Faculty of Informatics"
+date: 2021-10-01
 excerpt: "<i>Master's course, Guest lecture, Teaching assistant</i><br/>"
 ---
 
