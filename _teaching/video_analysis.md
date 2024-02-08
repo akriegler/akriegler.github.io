@@ -1,7 +1,7 @@
 ---
 title: "Video Analysis (188.329)"
 collection: teaching
-teaching_type: "Graduate course"
+type: "Graduate course"
 permalink: /teaching/video_analysis/ 
 institution: "TU Wien, Faculty of Informatics"
 ---

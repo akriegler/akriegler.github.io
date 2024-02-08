@@ -1,7 +1,7 @@
 ---
 title: "Stereo Vision (188.513)"
 collection: teaching
-teaching_type: "Graduate course"
+type: "Graduate course"
 permalink: /teaching/2021S-stereo/ 
 institution: "TU Wien"
 ---

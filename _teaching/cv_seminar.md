@@ -1,9 +1,10 @@
 ---
 title: "Seminar in Computer Vision (188.941)"
 collection: teaching
-teaching_type: "Graduate course"
+type: "Graduate course"
 permalink: /teaching/seminar/ 
-institution: "TU Wien"
+venue: "TU Wien"
+excerpt: ""
 ---
 
 ### Details
