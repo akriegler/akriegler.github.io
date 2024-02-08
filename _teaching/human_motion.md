@@ -10,6 +10,8 @@ excerpt: ""
 
 ### Details
 - ID: 188.468 Visual Analysis of Human Motion
+- Level: Graduate course
 - Professor(s): Margrit Gelautz
-- Semesters: 2022S, 2023S
-- Task: guest lecture (90 mins.)
+- Semester(s): 2022S, 2023S
+- Task: Guest lecture (90 mins.)
+- Location: TU Wien, Faculty of Informatics, Favoritenstraße 9-11
