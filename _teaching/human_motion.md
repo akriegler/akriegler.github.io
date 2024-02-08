@@ -4,7 +4,7 @@ collection: teaching
 teaching_type: "Graduate course"
 permalink: /teaching/human_motion/ 
 institution: "TU Wien"
-date: 1-1-2012
+date: 01/01/2012
 excerpt: ""
 ---
 
