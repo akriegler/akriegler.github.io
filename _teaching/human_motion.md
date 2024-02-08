@@ -4,10 +4,11 @@ collection: teaching
 teaching_type: "Graduate course"
 permalink: /teaching/human_motion/ 
 institution: "TU Wien"
+excerpt: ""
 ---
 
 ### Details
 - ID: 188.468 Visual Analysis of Human Motion
 - Professor(s): Margrit Gelautz
-- Task: guest lecture (90 mins.)
 - Semesters: 2022S, 2023S
+- Task: guest lecture (90 mins.)

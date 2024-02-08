@@ -9,5 +9,5 @@ institution: "TU Wien"
 ### Details
 - ID: 188.513 Stereo Vision
 - Professor(s): Margrit Gelautz
-- Task: guest lecture (90 mins.)
 - Semesters: 2021S
+- Task: guest lecture (90 mins.)
