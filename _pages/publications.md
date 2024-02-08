@@ -12,7 +12,7 @@ You can also find my publications on <a href="https://orcid.org/0000-0002-5653-5
 <img align="right" src="/images/primitive.png" width="140" style="margin-right:00px"/> <span style="color:#155270;">**PrimitivePose: Generic Model and Representation for 3D Bounding Box Prediction of Unseen Objects** </span> <br>
 <span style="font-size:smaller">**Andreas Kriegler**, Csaba Beleznai, Margrit Gelautz, Markus Murschitz, Kai Göbel</span> <br>
 <span style="font-size:smaller"> International Journal of Semantic Computing (IJSC), 17(3),  pp.387-410, 2023. </span> <br>
-[link](https://www.worldscientific.com/doi/10.1142/S1793351X23630027){: .btn .btn--primary .btn--small}<br style="clear" /> <br>
+[link](https://doi.org/10.1142/S1793351X23620027){: .btn .btn--primary .btn--small}<br style="clear" /> <br>
 
 ## <span style="color:#155270;">Conference proceedings</span>
 <img align="right" src="/images/autility.png" width="140" style="margin-right:00px"/> <span style="color:#155270;">**Towards Scene Understanding for Autonomous Operations on Airport Aprons** </span> <br>
