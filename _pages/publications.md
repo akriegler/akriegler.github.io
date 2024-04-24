@@ -65,7 +65,6 @@ You can also find my publications on <a href="https://orcid.org/0000-0002-5653-5
 <span style="font-size:smaller"> Konferenz der Mechatronik Plattform Österreich 2018, pp.44-45, 2018. </span> <br>
 [link](http://www.mechatronik-plattform.at/home/wp-content/uploads/2019/06/Tagungsband_Konferenz_MP_Oesterreich_2018.pdf){: .btn .btn--primary .btn--small}<br style="clear" /> <br>
 
-
 ## <span style="color:#155270;">Thesis </span>
 <img align="right" src="/images/semantic.png" width="140" style="margin-right:00px"/> <span style="color:#155270;">**Visual Semantic Context Encoding for Data Harvesting and Domain Prediction** </span> <br>
 <span style="font-size:smaller">**Andreas Kriegler** </span> <br>
@@ -81,3 +80,8 @@ You can also find my publications on <a href="https://orcid.org/0000-0002-5653-5
 <span style="font-size:smaller">**Andreas Kriegler** </span> <br>
 <span style="font-size:smaller"> Thesis, UAS Technikum Wien, 2018. </span> <br>
 [link](https://www.researchgate.net/publication/352211347_Neuentwicklung_der_Schlackeauswurferkennung_auf_der_Basis_von_MATLAB){: .btn .btn--primary .btn--small}<br style="clear" /> <br>
+
+## <span style="color:#155270;">Editorial duties</span>
+<span style="color:#155270;">**Proceedings on "I Can't Believe It's Not Better: Failure Modes in the Age of Foundation Models** </span> <br>
+<span style="font-size:smaller">**Javier Antorán, Arno Blaas, Kelly Buchanan, Fan Feng, Vincent Fortuin, Sahra Ghalebikesabi, **Andreas Kriegler**, Ian Mason, David Rohde, Francisco J. R. Ruiz, Tobias Uelwer, Yubin Xie, Rui Yang** </span> <br>
+<span style="font-size:smaller"> NeurIPS 2023 Workshops, Proceedings of Machine Learning Research (PMLR), April 2024. </span> <br>
