@@ -1,0 +1,135 @@
+cv:
+  name: Andreas Kriegler
+  location: Paulinengasse 18-20/2/2, 1180 Vienna, Austria
+  email: krieglerandreas@gmail.com
+  phone: tel:+43 670 5563965
+  website: https://andreaskriegler.eu
+  social_networks:
+    - network: ORCID
+      username: 0000-0002-5653-5181
+    - network: Google Scholar
+      username: Andreas Kriegler
+    - network: ResearchGate
+      username: Andreas Kriegler
+    - network: GitHub
+      username: akriegler
+  sections:
+    welcome_to_RenderCV!:
+      - '[RenderCV](https://github.com/sinaatalay/rendercv) is
+        a LaTeX-based CV/resume framework. It allows you to create
+        a high-quality CV or resume as a PDF file from a YAML
+        file, with **full Markdown syntax support** and **complete
+        control over the LaTeX code**.'
+      - The boilerplate content was inspired by [Gayle McDowell](https://github.com/dnl-blkv/mcdowell-cv).
+    quick_guide:
+      - bullet: Each section title is arbitrary and each section
+          contains a list of entries.
+      - bullet: 'There are 7 unique entry types: *BulletEntry*,
+          *TextEntry*, *EducationEntry*, *ExperienceEntry*, *NormalEntry*,
+          *PublicationEntry*, and *OneLineEntry*.'
+      - bullet: Select a section title, pick an entry type, and
+          start writing your section!
+      - bullet: '[Here](https://docs.rendercv.com/user_guide/),
+          you can find a comprehensive user guide for RenderCV.'
+    education:
+      - institution: TU Wien
+        area: Computer Science
+        degree: Dr.
+        start_date: 2021-03-15
+        end_date: 2025
+        highlights:
+          - '**Coursework:** Geometry, Research Ethics, Philosophy of Computer Science'
+      - institution: University of Applied Sciences Technikum Vienna
+        area: Mechatronics/Robotics
+        degree: MSc.
+        start_date: 2018-09-01
+        end_date: 2020-10-31
+        highlights:
+          - '**Coursework:** Robotics, Computer Science, Mechanical Engineering, Electrical Engineering, Management'
+      - institution: University of Applied Sciences Technikum Vienna
+        area: Mechatronics/Robotics
+        degree: BSc.
+        start_date: 2015-09-01
+        end_date: 2018-06-30
+        highlights:
+          - '**Coursework:** Robotics, Computer Science, Mechanical Engineering, Electrical Engineering, Management'
+    experience:
+      - company: AIT Austrian Institute of Technology
+        position: PhD Student
+        location: Vienna, Austria
+        start_date: 2021-03-15
+        end_date: 2025
+        highlights:
+          - Publications on generic 6D object pose estimation for robotic applications.
+      - company: TU Wien
+        position: University Research Assistant
+        location: Vienna, Austria
+        start_date: 2021-03-15
+        end_date: 2025
+        highlights:
+          - Reviews, teaching.
+      - company: AIT Austrian Institute of Technology
+        position: Data Scientist/Diploma Student
+        location: Vienna, Austria
+        start_date: 2018-09-01
+        end_date: 2021-03-14
+        highlights:
+          - Developing Machine-Learning based Object Detection frameworks for various applications. Diploma Thesis on aerial automation.
+      - company: SMS Group
+        position: Software Developer (Intern)
+        location: Düsseldorf, Germany
+        start_date: 2017-08-01
+        end_date: 2018-01-31
+        highlights:
+          - Developing system for slag slopping prediction for LD-converters in MATLAB for Bachelor Paper.
+      - company: Customer Care Solutions
+        position: Call Center Agent
+        location: Vienna, Austria
+        start_date: 2016-02-01
+        end_date: 2016-12-31
+        highlights:
+          - Handling bus services.
+      - company: Vienna Red Cross
+        position: Paramedic
+        location: Vienna, Austria
+        start_date: 2013-12-01
+        end_date: 2014-04-30
+        highlights:
+          - Paramedic as part of the community service
+    publications:
+      - title: 3D Finite Element Analysis of No-Insulation Coils
+        authors:
+          - Frodo Baggins
+          - '***John Doe***'
+          - Samwise Gamgee
+        doi: 10.1109/TASC.2023.3340648
+        date: 2004-01
+    projects:
+      - name: Multi-User Drawing Tool
+        date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
+        highlights:
+          - Developed an electronic classroom where multiple users
+            can simultaneously view and draw on a "chalkboard"
+            with each person's edits synchronized
+          - 'Tools Used: C++, MFC'
+      - name: Synchronized Desktop Calendar
+        date: '[github.com/name/repo](https://github.com/sinaatalay/rendercv)'
+        highlights:
+          - Developed a desktop calendar with globally shared
+            and synchronized calendars, allowing users to schedule
+            meetings with other users
+          - 'Tools Used: C#, .NET, SQL, XML'
+      - name: Custom Operating System
+        date: 2002
+        highlights:
+          - Built a UNIX-style OS with a scheduler, file system,
+            text editor, and calculator
+          - 'Tools Used: C'
+    technologies:
+      - label: Languages
+        details: C++, C, Java, Objective-C, C#, SQL, JavaScript
+      - label: Technologies
+        details: .NET, Microsoft SQL Server, XCode, Interface
+          Builder
+design:
+  theme: sb2nov
