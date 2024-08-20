@@ -1,0 +1,240 @@
+cv:
+  name: Andreas Kriegler
+  location: Paulinengasse 18-20/2/2, 1180 Vienna, Austria
+  email: krieglerandreas@gmail.com
+  phone: '+436705563965'
+  website: https://andreaskriegler.eu
+  social_networks:
+    - network: ORCID
+      username: 0000-0002-5653-5181
+    - network: Google Scholar
+      username: Andreas Kriegler
+    - network: ResearchGate
+      username: Andreas-Kriegler
+    - network: GitHub
+      username: akriegler
+  sections:
+    Summary:
+        - PhD student in Computer Vision at TU Wien. Employed and funded by the Austrian Institute of Technology.
+    education:
+      - institution: TU Wien
+        area: Computer Science
+        degree: Dr.
+        start_date: 2021-03
+        end_date: 2025
+        date: Ongoing
+      - institution: University of Applied Sciences Technikum Vienna
+        area: Mechatronics/Robotics (with distinction)
+        degree: MSc.
+        start_date: 2018-09
+        end_date: 2020-10
+        highlights:
+          - 'GPA: 1.58 (1.0-5.0, 1.0 is best)'
+      - institution: University of Applied Sciences Technikum Vienna
+        area: Mechatronics/Robotics (with distinction)
+        degree: BSc.
+        start_date: 2015-09
+        end_date: 2018-06
+        highlights:
+          - 'GPA: 1.73 (1.0-5.0, 1.0 is best)'
+      - institution: University of Natural Resources and Life Sciences Vienna
+        area: Civil Engineering
+        date: Oct 2014 to Jun 2015 (discontinued)
+    experience:
+      - company: AIT Austrian Institute of Technology
+        position: PhD Student
+        start_date: 2021-03-15
+        end_date: 2025
+        date: Ongoing
+        highlights:
+          - Publications on generic 6D object pose estimation for robotic applications
+      - company: TU Wien
+        position: University Research Assistant
+        start_date: 2021-03-15
+        end_date: 2025
+        date: Ongoing
+        highlights:
+          - Reviews for international journals and conferences
+          - Guest lectures + teaching assistant
+      - company: AIT Austrian Institute of Technology
+        position: Data Scientist/Diploma Student
+        start_date: 2018-09
+        end_date: 2021-03
+        highlights:
+          - Diploma Thesis on aerial automation
+          - Developing Machine-Learning based Object Detection frameworks for various applications
+      - company: SMS Group
+        position: Software Developer (Intern)
+        location: Düsseldorf, Germany
+        start_date: 2017-08
+        end_date: 2018-01
+        highlights:
+          - First Bachelor Paper
+          - Developing system for slag slopping prediction for LD-converters in MATLAB
+      - company: Customer Care Solutions
+        position: Call Center Agent
+        start_date: 2016-02
+        end_date: 2016-12
+      - company: Vienna Red Cross
+        position: Paramedic
+        start_date: 2013-12
+        end_date: 2014-08
+    publications:
+      - title: "Review Paper: Body Movement Mirroring and Synchrony in Human-Robot Interaction"
+        authors:
+          - Darja Stoeva
+          - '***Andreas Kriegler***'
+          - Margrit Gelautz
+        doi: 10.1145/3682074
+        date: 2024-08
+        journal: ACM Transactions on Human-Robot Interaction (THRI)
+      - title: "PrimitivePose: Generic Model and Representation for 3D Bounding Box Prediction of Unseen Objects"
+        authors:
+          - '***Andreas Kriegler***'
+          - Csaba Beleznai
+          - Margrit Gelautz
+          - Markus Murschitz
+          - Kai Göbel
+        doi: 10.1142/S1793351X23620027
+        date: 2023-08
+        journal: International Journal of Semantic Computing (IJSC)
+      - title: "Towards Scene Understanding for Autonomous Operations on Airport Aprons"
+        authors:
+          - Daniel Steininger
+          - '***Andreas Kriegler***'
+          - Wolfgang Pointner
+          - Verena Widhalm
+          - Julia Simon
+          - Oliver Zendel
+        doi: 10.1007/978-3-031-27066-6\_11
+        date: 2022-12
+        journal: Asian Conference on Computer Vision (ACCV 2022) Workshops
+      - title: "PrimitivePose: 3D Bounding Box Prediction of Unseen Objects via Synthetic Geometric Primitives"
+        authors:
+          - '***Andreas Kriegler***'
+          - Csaba Beleznai
+          - Markus Murschitz
+          - Kai Göbel
+          - Margrit Gelautz
+        date: 2022-12
+        doi: 10.1109/IRC55401.2022.00040
+        journal: International Conference on Robotic Computing (IRC 2022)
+      - title: Paradigmatic Revolutions in Computer Vision [pdf](https://drive.google.com/file/d/1ItDGcljAQOYo-HKHJLcC4gAgapCIQPns/view)
+        authors:
+          - '***Andreas Kriegler***'
+        date: 2022-12
+        journal: Advances in Neural Information Processing Systems 35 (NeurIPS 2022) Workshops
+      - title: Visual Semantic Context Encoding for Aerial Data Introspection and Domain Prediction
+        authors:
+          - '***Andreas Kriegler***'
+          - Daniel Steininger
+          - Wilfried Wöber
+        doi: 10.1007/978-3-031-04881-4\_34
+        date: 2022-05
+        journal: Iberian Conference on Pattern Recognition and Image Analysis (IbPRIA 2022)
+      - title: Pose-aware object recognition on a mobile platform via learned geometric representations
+        authors:
+          - Csaba Beleznai
+          - Philipp Ausserlechner
+          - '***Andreas Kriegler***'
+          - Wolfgang Pointner
+        date: 2022-05
+        doi: 10.23919/ascc56756.2022.9828370
+        journal: Asian Control Conference (ASCC 2022)
+      - title: Evaluation of Monocular and Stereo Depth Data for Geometry Assisted Learning of 3D Pose
+        authors:
+          - '***Andreas Kriegler***'
+          - Csaba Beleznai
+          - Margrit Gelautz
+        doi: 10.3217/978-3-85125-869-1-01
+        date: 2021-11
+        journal: OAGM Workshop 2021 (OAGM 2021)
+      - title: "The Aircraft Context Dataset: Understanding and Optimizing Data Variability in Aerial Domains"
+        authors:
+          - Daniel Steininger
+          - Verena Widhalm
+          - Julia Simon
+          - '***Andreas Kriegler***'
+          - Christoph Sulzbacher
+        date: 2021-11
+        doi: 10.1109/ICCVW54120.2021.00426
+        journal: International Conference on Computer Vision (ICCV 2021) Workshops
+      - title: Artificial Neural Networks Based Place Categorization
+        authors:
+          - '***Andreas Kriegler***'
+          - Wilfried Wöber
+          - Mohammed Aburaia
+        doi: 10.1007/978-3-030-62784-3\_17
+        date: 2020-10
+        journal: International Symposium for Production Research (ISPR 2020)
+      - title: Vision-based Docking of a Mobile Robot
+        authors:
+          - '***Andreas Kriegler***'
+          - Wilfried Wöber
+        doi: 10.3217/978-3-85125-752-6-03
+        date: 2020-09
+        journal: Joint Austrian Computer Vision and Robotics Workshop (ACVRW 2020)
+      - title: Visual Semantic Context Encoding for Data Harvesting and Domatin Prediction [link]( https://permalink.obvsg.at/ftw/AC16098872)
+        authors:
+          - '***Andreas Kriegler***'
+        date: 2020-09
+        journal: Diploma Thesis, University of Applied Sciences Technikum Vienna
+      - title: "FH Technikum Wien: Artificial Neural Networks Based State Transition Modeling and Place Categorization [pdf](http://www.mechatronik-plattform.at/home/wp-content/uploads/2019/06/Tagungsband_Konferenz_MP_Oesterreich_2018.pdf)"
+        authors:
+          - '***Andreas Kriegler***'
+        date: 2018-11
+        journal: Konferenz der Mechatronik Plattform Österreich
+    projects:
+      - name: I Can't Believe It's Not Better [ICBINB](https://icbinb.cc/)
+        date: Ongoing
+        highlights:
+          - Crack open the research process
+          - Organized NeurIPS workshop 'Failure Modes in the Age of Foundation Models' in 2023 [link](https://sites.google.com/view/icbinb-2023/home)
+    Languages:
+      - bullet: '**German** - native'
+      - bullet: '**English** - TOEFL 116/120 (C2)'
+      - bullet: '**Japanese** - A1'
+      - bullet: '**Latin** - A2'
+    References:
+      - bullet: '**Professor Margrit Gelautz** [link](https://informatics.tuwien.ac.at/people/margrit-gelautz) - TU Wien, Faculty of Informatics, Institute of Visual Computing and Human-Centered Technology'
+      - bullet: '**Dr. Wilfried Wöber** [link](https://www.technikum-wien.at/en/staff/wilfried-wober/) - University of Applied Sciences Technikum Vienna, Automation & Robotics'
+    Hobbies:
+      - Film, Photography, Computers, Piano, Gym, Cycling
+design:
+  theme: sb2nov
+
+locale_catalog:
+  phone_number_format: international
+  date_style: "MONTH_ABBREVIATION YEAR"
+  abbreviations_for_months: # translation of the month abbreviations
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - Jun
+    - Jul
+    - Aug
+    - Sep
+    - Oct
+    - Nov
+    - Dec
+  full_names_of_months: # translation of the full month names
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+  month: month      # translation of the word "month"
+  months: months    # translation of the word "months"
+  year: year        # translation of the word "year"
+  years: years      # translation of the word "years"
+  present: present  # translation of the word "present"
+  to: to            # translation of the word "to"
