@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  20 AUG 2024 14:38
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  20 AUG 2024 15:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -759,12 +759,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 463--464
  []
 
 
-Overfull \hbox (40.16658pt too wide) in paragraph at lines 565--566
+Overfull \hbox (40.16658pt too wide) in paragraph at lines 567--568
 [][]\OT1/lmr/m/n/10 , [], [], [], []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 565--566
+Underfull \hbox (badness 10000) in paragraph at lines 567--568
 
  []
 
@@ -813,7 +813,7 @@ era/PycharmProjects/akriegler.github.io/venv/Lib/site-packages/rendercv/rendere
 r/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri9.pfb><c:/Users/
 krieglera/PycharmProjects/akriegler.github.io/venv/Lib/site-packages/rendercv/r
 enderer/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Andreas_Kriegler_CV.pdf (3 pages, 226407 bytes).
+Output written on Andreas_Kriegler_CV.pdf (3 pages, 226420 bytes).
 PDF statistics:
  143 PDF objects out of 1000 (max. 8388607)
  114 compressed objects within 2 object streams

@@ -85,7 +85,7 @@ PhD student in Computer Vision at TU Wien. Employed and funded by the Austrian I
 - Daniel Steininger, ***Andreas Kriegler***, Wolfgang Pointner, Verena Widhalm, Julia Simon, Oliver Zendel
 - Asian Conference on Computer Vision (ACCV 2022) Workshops
 
-## PrimitivePose: 3D Bounding Box Prediction of Unseen Objects via Synthetic Geometric Primitives [link](https://doi.org/10.1109/IRC55401.2022.00040) 
+## PrimitivePose: 3D Bounding Box Prediction of Unseen Objects via Synthetic Geometric Primitives ([10.1109/IRC55401.2022.00040](https://doi.org/10.1109/IRC55401.2022.00040))
 - Dec 2022
 - ***Andreas Kriegler***, Csaba Beleznai, Markus Murschitz, Kai Göbel, Margrit Gelautz
 - International Conference on Robotic Computing (IRC 2022)
@@ -100,7 +100,7 @@ PhD student in Computer Vision at TU Wien. Employed and funded by the Austrian I
 - ***Andreas Kriegler***, Daniel Steininger, Wilfried Wöber
 - Iberian Conference on Pattern Recognition and Image Analysis (IbPRIA 2022)
 
-## Pose-aware object recognition on a mobile platform via learned geometric representations [link](https://doi.org/10.23919/ascc56756.2022.9828370) 
+## Pose-aware object recognition on a mobile platform via learned geometric representations ([10.23919/ascc56756.2022.9828370](https://doi.org/10.23919/ascc56756.2022.9828370))
 - May 2022
 - Csaba Beleznai, Philipp Ausserlechner, ***Andreas Kriegler***, Wolfgang Pointner
 - Asian Control Conference (ASCC 2022)
@@ -110,7 +110,7 @@ PhD student in Computer Vision at TU Wien. Employed and funded by the Austrian I
 - ***Andreas Kriegler***, Csaba Beleznai, Margrit Gelautz
 - OAGM Workshop 2021 (OAGM 2021)
 
-## The Aircraft Context Dataset: Understanding and Optimizing Data Variability in Aerial Domains [link](https://doi.org/10.1109/ICCVW54120.2021.00426) 
+## The Aircraft Context Dataset: Understanding and Optimizing Data Variability in Aerial Domains ([10.1109/ICCVW54120.2021.00426](https://doi.org/10.1109/ICCVW54120.2021.00426))
 - Nov 2021
 - Daniel Steininger, Verena Widhalm, Julia Simon, ***Andreas Kriegler***, Christoph Sulzbacher
 - International Conference on Computer Vision (ICCV 2021) Workshops

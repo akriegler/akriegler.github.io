@@ -109,7 +109,7 @@ cv:
         doi: 10.1007/978-3-031-27066-6\_11
         date: 2022-12
         journal: Asian Conference on Computer Vision (ACCV 2022) Workshops
-      - title: "PrimitivePose: 3D Bounding Box Prediction of Unseen Objects via Synthetic Geometric Primitives [link](https://doi.org/10.1109/IRC55401.2022.00040)"
+      - title: "PrimitivePose: 3D Bounding Box Prediction of Unseen Objects via Synthetic Geometric Primitives"
         authors:
           - '***Andreas Kriegler***'
           - Csaba Beleznai
@@ -117,6 +117,7 @@ cv:
           - Kai Göbel
           - Margrit Gelautz
         date: 2022-12
+        doi: 10.1109/IRC55401.2022.00040
         journal: International Conference on Robotic Computing (IRC 2022)
       - title: Paradigmatic Revolutions in Computer Vision [pdf](https://drive.google.com/file/d/1ItDGcljAQOYo-HKHJLcC4gAgapCIQPns/view)
         authors:
@@ -131,13 +132,14 @@ cv:
         doi: 10.1007/978-3-031-04881-4\_34
         date: 2022-05
         journal: Iberian Conference on Pattern Recognition and Image Analysis (IbPRIA 2022)
-      - title: Pose-aware object recognition on a mobile platform via learned geometric representations [link](https://doi.org/10.23919/ascc56756.2022.9828370)
+      - title: Pose-aware object recognition on a mobile platform via learned geometric representations
         authors:
           - Csaba Beleznai
           - Philipp Ausserlechner
           - '***Andreas Kriegler***'
           - Wolfgang Pointner
         date: 2022-05
+        doi: 10.23919/ascc56756.2022.9828370
         journal: Asian Control Conference (ASCC 2022)
       - title: Evaluation of Monocular and Stereo Depth Data for Geometry Assisted Learning of 3D Pose
         authors:
@@ -147,7 +149,7 @@ cv:
         doi: 10.3217/978-3-85125-869-1-01
         date: 2021-11
         journal: OAGM Workshop 2021 (OAGM 2021)
-      - title: "The Aircraft Context Dataset: Understanding and Optimizing Data Variability in Aerial Domains [link](https://doi.org/10.1109/ICCVW54120.2021.00426)"
+      - title: "The Aircraft Context Dataset: Understanding and Optimizing Data Variability in Aerial Domains"
         authors:
           - Daniel Steininger
           - Verena Widhalm
@@ -155,6 +157,7 @@ cv:
           - '***Andreas Kriegler***'
           - Christoph Sulzbacher
         date: 2021-11
+        doi: 10.1109/ICCVW54120.2021.00426
         journal: International Conference on Computer Vision (ICCV 2021) Workshops
       - title: Artificial Neural Networks Based Place Categorization
         authors:
