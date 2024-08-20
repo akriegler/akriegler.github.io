@@ -30,6 +30,10 @@ PhD student in Computer Vision at TU Wien. Employed and funded by the Austrian I
 - Sep 2015 to Jun 2018
 - GPA: 1.73 (1.0-5.0, 1.0 is best)
 
+## University of Natural Resources and Life Sciences Vienna, Civil Engineering
+
+- Oct 2014 to Jun 2015 (discontinued)
+
 # Experience
 
 ## AIT Austrian Institute of Technology, PhD Student
@@ -46,8 +50,8 @@ PhD student in Computer Vision at TU Wien. Employed and funded by the Austrian I
 ## AIT Austrian Institute of Technology, Data Scientist/Diploma Student
 
 - Sep 2018 to Mar 2021
-- Diploma Thesis on aerial automation.
-- Developing Machine-Learning based Object Detection frameworks for various applications.
+- Diploma Thesis on aerial automation
+- Developing Machine-Learning based Object Detection frameworks for various applications
 
 ## SMS Group, Software Developer (Intern)
 
@@ -59,12 +63,10 @@ PhD student in Computer Vision at TU Wien. Employed and funded by the Austrian I
 ## Customer Care Solutions, Call Center Agent
 
 - Feb 2016 to Dec 2016
-- Handling bus services.
 
 ## Vienna Red Cross, Paramedic
 
-- Dec 2013 to Apr 2014
-- Paramedic as part of the community service
+- Dec 2013 to Aug 2014
 
 # Publications
 
@@ -83,7 +85,7 @@ PhD student in Computer Vision at TU Wien. Employed and funded by the Austrian I
 - Daniel Steininger, ***Andreas Kriegler***, Wolfgang Pointner, Verena Widhalm, Julia Simon, Oliver Zendel
 - Asian Conference on Computer Vision (ACCV 2022) Workshops
 
-## PrimitivePose: 3D Bounding Box Prediction of Unseen Objects via Synthetic Geometric Primitives ([10.1109/IRC55401.2022.00040](https://doi.org/10.1109/IRC55401.2022.00040))
+## PrimitivePose: 3D Bounding Box Prediction of Unseen Objects via Synthetic Geometric Primitives [link](https://doi.org/10.1109/IRC55401.2022.00040) 
 - Dec 2022
 - ***Andreas Kriegler***, Csaba Beleznai, Markus Murschitz, Kai Göbel, Margrit Gelautz
 - International Conference on Robotic Computing (IRC 2022)
@@ -98,7 +100,7 @@ PhD student in Computer Vision at TU Wien. Employed and funded by the Austrian I
 - ***Andreas Kriegler***, Daniel Steininger, Wilfried Wöber
 - Iberian Conference on Pattern Recognition and Image Analysis (IbPRIA 2022)
 
-## Pose-aware object recognition on a mobile platform via learned geometric representations ([10.23919/ascc56756.2022.9828370](https://doi.org/10.23919/ascc56756.2022.9828370))
+## Pose-aware object recognition on a mobile platform via learned geometric representations [link](https://doi.org/10.23919/ascc56756.2022.9828370) 
 - May 2022
 - Csaba Beleznai, Philipp Ausserlechner, ***Andreas Kriegler***, Wolfgang Pointner
 - Asian Control Conference (ASCC 2022)
@@ -108,7 +110,7 @@ PhD student in Computer Vision at TU Wien. Employed and funded by the Austrian I
 - ***Andreas Kriegler***, Csaba Beleznai, Margrit Gelautz
 - OAGM Workshop 2021 (OAGM 2021)
 
-## The Aircraft Context Dataset: Understanding and Optimizing Data Variability in Aerial Domains ([10.1109/ICCVW54120.2021.00426](https://doi.org/10.1109/ICCVW54120.2021.00426))
+## The Aircraft Context Dataset: Understanding and Optimizing Data Variability in Aerial Domains [link](https://doi.org/10.1109/ICCVW54120.2021.00426) 
 - Nov 2021
 - Daniel Steininger, Verena Widhalm, Julia Simon, ***Andreas Kriegler***, Christoph Sulzbacher
 - International Conference on Computer Vision (ICCV 2021) Workshops
@@ -139,9 +141,19 @@ PhD student in Computer Vision at TU Wien. Employed and funded by the Austrian I
 
 - Ongoing
 - Crack open the research process
-- Organized NeurIPS workshop in 2023 [link](https://sites.google.com/view/icbinb-2023/home)
+- Organized NeurIPS workshop 'Failure Modes in the Age of Foundation Models' in 2023 [link](https://sites.google.com/view/icbinb-2023/home)
 
+# Languages
+
+- **German** - native
+- **English** - TOEFL 116/120 (C2)
+- **Japanese** - A1
+- **Latin** - A2
 # References
 
-- **Professor Margrit Gelautz** [link](https://informatics.tuwien.ac.at/people/margrit-gelautz) - TU Wien Informatics: Visual Computing and Human-Centered Technology
-- **Dr. Wilfried Wöber** [link](https://www.technikum-wien.at/en/staff/wilfried-wober/) - University of Appplied Sciences Technikum Wien: Automation & Robotics
+- **Professor Margrit Gelautz** [link](https://informatics.tuwien.ac.at/people/margrit-gelautz) - TU Wien, Faculty of Informatics, Institute of Visual Computing and Human-Centered Technology
+- **Dr. Wilfried Wöber** [link](https://www.technikum-wien.at/en/staff/wilfried-wober/) - University of Applied Sciences Technikum Vienna, Automation & Robotics
+# Hobbies
+
+Film, Photography, Computers, Piano, Gym, Cycling
+

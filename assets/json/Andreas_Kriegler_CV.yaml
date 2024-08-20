@@ -37,6 +37,9 @@ cv:
         end_date: 2018-06
         highlights:
           - 'GPA: 1.73 (1.0-5.0, 1.0 is best)'
+      - institution: University of Natural Resources and Life Sciences Vienna
+        area: Civil Engineering
+        date: Oct 2014 to Jun 2015 (discontinued)
     experience:
       - company: AIT Austrian Institute of Technology
         position: PhD Student
@@ -58,8 +61,8 @@ cv:
         start_date: 2018-09
         end_date: 2021-03
         highlights:
-          - Diploma Thesis on aerial automation.
-          - Developing Machine-Learning based Object Detection frameworks for various applications.
+          - Diploma Thesis on aerial automation
+          - Developing Machine-Learning based Object Detection frameworks for various applications
       - company: SMS Group
         position: Software Developer (Intern)
         location: Düsseldorf, Germany
@@ -72,14 +75,10 @@ cv:
         position: Call Center Agent
         start_date: 2016-02
         end_date: 2016-12
-        highlights:
-          - Handling bus services.
       - company: Vienna Red Cross
         position: Paramedic
         start_date: 2013-12
-        end_date: 2014-04
-        highlights:
-          - Paramedic as part of the community service
+        end_date: 2014-08
     publications:
       - title: "Review Paper: Body Movement Mirroring and Synchrony in Human-Robot Interaction"
         authors:
@@ -110,14 +109,13 @@ cv:
         doi: 10.1007/978-3-031-27066-6\_11
         date: 2022-12
         journal: Asian Conference on Computer Vision (ACCV 2022) Workshops
-      - title: "PrimitivePose: 3D Bounding Box Prediction of Unseen Objects via Synthetic Geometric Primitives"
+      - title: "PrimitivePose: 3D Bounding Box Prediction of Unseen Objects via Synthetic Geometric Primitives [link](https://doi.org/10.1109/IRC55401.2022.00040)"
         authors:
           - '***Andreas Kriegler***'
           - Csaba Beleznai
           - Markus Murschitz
           - Kai Göbel
           - Margrit Gelautz
-        doi: 10.1109/IRC55401.2022.00040
         date: 2022-12
         journal: International Conference on Robotic Computing (IRC 2022)
       - title: Paradigmatic Revolutions in Computer Vision [pdf](https://drive.google.com/file/d/1ItDGcljAQOYo-HKHJLcC4gAgapCIQPns/view)
@@ -133,13 +131,12 @@ cv:
         doi: 10.1007/978-3-031-04881-4\_34
         date: 2022-05
         journal: Iberian Conference on Pattern Recognition and Image Analysis (IbPRIA 2022)
-      - title: Pose-aware object recognition on a mobile platform via learned geometric representations
+      - title: Pose-aware object recognition on a mobile platform via learned geometric representations [link](https://doi.org/10.23919/ascc56756.2022.9828370)
         authors:
           - Csaba Beleznai
           - Philipp Ausserlechner
           - '***Andreas Kriegler***'
           - Wolfgang Pointner
-        doi: 10.23919/ascc56756.2022.9828370
         date: 2022-05
         journal: Asian Control Conference (ASCC 2022)
       - title: Evaluation of Monocular and Stereo Depth Data for Geometry Assisted Learning of 3D Pose
@@ -150,14 +147,13 @@ cv:
         doi: 10.3217/978-3-85125-869-1-01
         date: 2021-11
         journal: OAGM Workshop 2021 (OAGM 2021)
-      - title: "The Aircraft Context Dataset: Understanding and Optimizing Data Variability in Aerial Domains"
+      - title: "The Aircraft Context Dataset: Understanding and Optimizing Data Variability in Aerial Domains [link](https://doi.org/10.1109/ICCVW54120.2021.00426)"
         authors:
           - Daniel Steininger
           - Verena Widhalm
           - Julia Simon
           - '***Andreas Kriegler***'
           - Christoph Sulzbacher
-        doi: 10.1109/ICCVW54120.2021.00426
         date: 2021-11
         journal: International Conference on Computer Vision (ICCV 2021) Workshops
       - title: Artificial Neural Networks Based Place Categorization
@@ -190,10 +186,17 @@ cv:
         date: Ongoing
         highlights:
           - Crack open the research process
-          - Organized NeurIPS workshop in 2023 [link](https://sites.google.com/view/icbinb-2023/home)
+          - Organized NeurIPS workshop 'Failure Modes in the Age of Foundation Models' in 2023 [link](https://sites.google.com/view/icbinb-2023/home)
+    Languages:
+      - bullet: '**German** - native'
+      - bullet: '**English** - TOEFL 116/120 (C2)'
+      - bullet: '**Japanese** - A1'
+      - bullet: '**Latin** - A2'
     References:
-      - bullet: '**Professor Margrit Gelautz** [link](https://informatics.tuwien.ac.at/people/margrit-gelautz) - TU Wien Informatics: Visual Computing and Human-Centered Technology'
-      - bullet: '**Dr. Wilfried Wöber** [link](https://www.technikum-wien.at/en/staff/wilfried-wober/) - University of Appplied Sciences Technikum Wien: Automation & Robotics'
+      - bullet: '**Professor Margrit Gelautz** [link](https://informatics.tuwien.ac.at/people/margrit-gelautz) - TU Wien, Faculty of Informatics, Institute of Visual Computing and Human-Centered Technology'
+      - bullet: '**Dr. Wilfried Wöber** [link](https://www.technikum-wien.at/en/staff/wilfried-wober/) - University of Applied Sciences Technikum Vienna, Automation & Robotics'
+    Hobbies:
+      - Film, Photography, Computers, Piano, Gym, Cycling
 design:
   theme: sb2nov
 
