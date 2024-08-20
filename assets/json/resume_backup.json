@@ -1,9 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
     "name": "Andreas Kriegler",
     "label": "Computer Vision Researcher",
-    "picture": "https://i.imgur.com/qJcXXTl.png",
+    "picture": "",
     "email": "krieglerandreas@gmail.com",
     "phone": "+43 670 5563965",
     "website": "https://andreaskriegler.eu",
@@ -43,56 +42,6 @@
       }
     ]
   },
-  "work": [
-    {
-      "company": "AIT Austrian Institute of Technology",
-      "position": "PhD Student",
-      "website": "https://www.ait.ac.at/en/about-the-ait/center/center-for-vision-automation-control/assistive-autonomous-systems",
-      "startDate": "2021-03-15",
-      "endDate": "2099",
-      "summary": "Publications on generic 6D object pose estimation for robotic applications."
-    },
-    {
-      "company": "TU Wien",
-      "position": "University Research Assistant",
-      "website": "https://cvl.tuwien.ac.at/",
-      "startDate": "2021-03-15",
-      "endDate": "2099",
-      "summary": "Reviews, lectures."
-    },
-    {
-      "company": "AIT Austrian Institute of Technology",
-      "position": "Data Scientist + Diploma Student",
-      "website": "https://www.ait.ac.at/en/about-the-ait/center/center-for-vision-automation-control/assistive-autonomous-systems",
-      "startDate": "2018-09-01",
-      "endDate": "2021-03-14",
-      "summary": "Developing Machine-Learning based Object Detection frameworks for various applications. Diploma Thesis on aerial automation."
-    },
-    {
-      "company": "SMS Group",
-      "position": "Software Developer (Intern)",
-      "website": "https://www.sms-group.com/",
-      "startDate": "2017-08-01",
-      "endDate": "2018-01-31",
-      "summary": "Developing system for slag slopping prediction for LD-converters in MATLAB for Bachelor Paper."
-    },
-    {
-      "company": "Customer Care Solutions",
-      "position": "Call Center Agent",
-      "website": "https://customer-care-solutions.at/",
-      "startDate": "2016-02-01",
-      "endDate": "2016-12-31",
-      "summary": "Handling bus services."
-    },
-    {
-      "company": "Vienna Red Cross",
-      "position": "Paramedic",
-      "website": "https://www.roteskreuz.at/wien/home",
-      "startDate": "2013-12-01",
-      "endDate": "2014-04-30",
-      "summary": "Paramedic as part of the community service."
-    }
-  ],
   "volunteer": [
     {
       "organization": "ICBINB",
@@ -156,12 +105,54 @@
       "gpa": ""
     }
   ],
-  "awards": [
+  "work": [
     {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
+      "company": "AIT Austrian Institute of Technology",
+      "position": "PhD Student",
+      "website": "https://www.ait.ac.at/en/about-the-ait/center/center-for-vision-automation-control/assistive-autonomous-systems",
+      "startDate": "2021-03-15",
+      "endDate": "2099",
+      "summary": "Publications on generic 6D object pose estimation for robotic applications."
+    },
+    {
+      "company": "TU Wien",
+      "position": "University Research Assistant",
+      "website": "https://cvl.tuwien.ac.at/",
+      "startDate": "2021-03-15",
+      "endDate": "2099",
+      "summary": "Reviews, lectures."
+    },
+    {
+      "company": "AIT Austrian Institute of Technology",
+      "position": "Data Scientist + Diploma Student",
+      "website": "https://www.ait.ac.at/en/about-the-ait/center/center-for-vision-automation-control/assistive-autonomous-systems",
+      "startDate": "2018-09-01",
+      "endDate": "2021-03-14",
+      "summary": "Developing Machine-Learning based Object Detection frameworks for various applications. Diploma Thesis on aerial automation."
+    },
+    {
+      "company": "SMS Group",
+      "position": "Software Developer (Intern)",
+      "website": "https://www.sms-group.com/",
+      "startDate": "2017-08-01",
+      "endDate": "2018-01-31",
+      "summary": "Developing system for slag slopping prediction for LD-converters in MATLAB for Bachelor Paper."
+    },
+    {
+      "company": "Customer Care Solutions",
+      "position": "Call Center Agent",
+      "website": "https://customer-care-solutions.at/",
+      "startDate": "2016-02-01",
+      "endDate": "2016-12-31",
+      "summary": "Handling bus services."
+    },
+    {
+      "company": "Vienna Red Cross",
+      "position": "Paramedic",
+      "website": "https://www.roteskreuz.at/wien/home",
+      "startDate": "2013-12-01",
+      "endDate": "2014-04-30",
+      "summary": "Paramedic as part of the community service."
     }
   ],
   "publications": [
@@ -238,26 +229,6 @@
       "website": "http://www.mechatronik-plattform.at/home/wp-content/uploads/2019/06/Tagungsband_Konferenz_MP_Oesterreich_2018.pdf"
     }
   ],
-  "skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
-      ]
-    },
-    {
-      "name": "Compression",
-      "level": "Master",
-      "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
-      ]
-    }
-  ],
   "languages": [
     {
       "language": "German",
@@ -275,50 +246,5 @@
       "language": "Latin",
       "fluency": "A1"
     }
-  ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
-    }
-  ],
-  "projects": [
-    {
-      "name": "Miss Direction",
-      "description": "A mapping engine that misguides you",
-      "highlights": [
-        "Won award at AIHacks 2016",
-        "Built by all women team of newbie programmers",
-        "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
-      ],
-      "keywords": [
-        "GoogleMaps",
-        "Chrome Extension",
-        "Javascript"
-      ],
-      "startDate": "2016-08-24",
-      "endDate": "2016-08-24",
-      "url": "missdirection.example.com",
-      "roles": [
-        "Team lead",
-        "Designer"
-      ],
-      "entity": "Smoogle",
-      "type": "application"
-    }
-  ],
-  "meta": {
-    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/sample.resume.json",
-    "version": "v1.0.0",
-    "lastModified": "2017-12-24T15:53:00"
-  }
+  ]
 }

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  9 AUG 2024 17:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.5.1)  20 AUG 2024 13:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -689,32 +689,32 @@ vailable
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
 n input line 191.
 LaTeX Font Info:    Trying to load font information for OML+lmm on input line 2
-20.
+38.
 
 (c:/Users/krieglera/PycharmProjects/akriegler.github.io/venv/Lib/site-packages/
 rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
-220.
+238.
 
 (c:/Users/krieglera/PycharmProjects/akriegler.github.io/venv/Lib/site-packages/
 rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
-220.
+238.
 
 (c:/Users/krieglera/PycharmProjects/akriegler.github.io/venv/Lib/site-packages/
 rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 220.
+(Font)              <10> on input line 238.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 220.
+(Font)              <7> on input line 238.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 220.
+(Font)              <5> on input line 238.
 
 [1
 
@@ -733,7 +733,49 @@ a/PycharmProjects/akriegler.github.io/venv/Lib/site-packages/rendercv/renderer/
 tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/fontawesome5/fa5brands0.enc}
 {c:/Users/krieglera/PycharmProjects/akriegler.github.io/venv/Lib/site-packages/
 rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/enc/dvips/lm/lm-math
-sy.enc}] [2] 
+sy.enc}]
+Overfull \hbox (7.50166pt too wide) in paragraph at lines 420--421
+[][]\OT1/lmr/m/n/10 , [], [], [], []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 420--421
+
+ []
+
+
+Overfull \hbox (30.77803pt too wide) in paragraph at lines 441--442
+[][]\OT1/lmr/m/n/10 , [], [], [], [],
+ []
+
+
+Overfull \hbox (7.50166pt too wide) in paragraph at lines 462--463
+[][]\OT1/lmr/m/n/10 , [], [], [], []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 462--463
+
+ []
+
+
+Overfull \hbox (40.16658pt too wide) in paragraph at lines 566--567
+[][]\OT1/lmr/m/n/10 , [], [], [], []
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 566--567
+
+ []
+
+
+Overfull \vbox (2.89308pt too high) has occurred while \output is active []
+
+
+Overfull \vbox (2.89308pt too high) has occurred while \output is active []
+
+
+[2] [3] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./Andreas_Kriegler_CV.aux)
  ***********
@@ -742,13 +784,13 @@ L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 14870 strings out of 476002
- 274112 string characters out of 5788363
+ 14872 strings out of 476002
+ 274137 string characters out of 5788363
  1956496 words of memory out of 5000000
- 36793 multiletter control sequences out of 15000+600000
- 602163 words of font info for 60 fonts, out of 8000000 for 9000
+ 36795 multiletter control sequences out of 15000+600000
+ 600886 words of font info for 60 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 75i,10n,79p,433b,686s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,10n,79p,405b,815s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/Users/krieglera/PycharmProjects/akriegler.github.io/venv/Lib/site-package
 s/rendercv/renderer/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/fonta
 wesome5/FontAwesome5Brands-Regular.pfb><c:/Users/krieglera/PycharmProjects/akri
@@ -771,10 +813,10 @@ era/PycharmProjects/akriegler.github.io/venv/Lib/site-packages/rendercv/rendere
 r/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/lm/lmri9.pfb><c:/Users/
 krieglera/PycharmProjects/akriegler.github.io/venv/Lib/site-packages/rendercv/r
 enderer/tinytex-release/TinyTeX/texmf-dist/fonts/type1/public/lm/lmsy10.pfb>
-Output written on Andreas_Kriegler_CV.pdf (2 pages, 219303 bytes).
+Output written on Andreas_Kriegler_CV.pdf (3 pages, 224914 bytes).
 PDF statistics:
- 123 PDF objects out of 1000 (max. 8388607)
- 96 compressed objects within 1 object stream
+ 135 PDF objects out of 1000 (max. 8388607)
+ 106 compressed objects within 2 object streams
  10 named destinations out of 1000 (max. 500000)
- 57 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 49 words of extra memory for PDF output out of 10000 (max. 10000000)
 
