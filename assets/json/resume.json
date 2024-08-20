@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Andreas Kriegler",
-    "label": "Computer Vision Researcher",
+    "label": "PhD Student",
     "picture": "",
     "email": "krieglerandreas@gmail.com",
     "phone": "+43 670 5563965",
     "website": "https://andreaskriegler.eu",
-    "summary": "PhD student in Computer Vision at TU Wien.",
+    "summary": "PhD student in Computer Vision at TU Wien",
     "location": {
       "address": "Paulinengasse 18-20/2/2",
       "postalCode": "1180",
@@ -42,16 +42,6 @@
       }
     ]
   },
-  "volunteer": [
-    {
-      "organization": "ICBINB",
-      "position": "Member, workshop organizer",
-      "website": "https://icbinb.cc/",
-      "startDate": "2023-03-01",
-      "endDate": "2099",
-      "summary": "Crack open the research process. Organized NeurIPS workshop in 2023."
-    }
-  ],
   "education": [
     {
       "institution": "TU Wien",
@@ -59,12 +49,8 @@
       "studyType": "Doctoral Degree",
       "startDate": "2021-03-15",
       "endDate": "2099",
-      "gpa": "",
-      "courses": [
-        "Geometry & Mathematics",
-        "Research Ethics",
-        "Philosophy of Science"
-      ]
+      "date": "Ongoing",
+      "gpa": ""
     },
     {
       "institution": "University of Applied Sciences Technikum Vienna",
@@ -112,6 +98,7 @@
       "website": "https://www.ait.ac.at/en/about-the-ait/center/center-for-vision-automation-control/assistive-autonomous-systems",
       "startDate": "2021-03-15",
       "endDate": "2099",
+      "date": "Ongoing",
       "summary": "Publications on generic 6D object pose estimation for robotic applications."
     },
     {
@@ -120,7 +107,8 @@
       "website": "https://cvl.tuwien.ac.at/",
       "startDate": "2021-03-15",
       "endDate": "2099",
-      "summary": "Reviews, lectures."
+      "date": "Ongoing",
+      "summary": "Reviews for international journals and conferences. Guest lectures + teaching assistant."
     },
     {
       "company": "AIT Austrian Institute of Technology",
@@ -128,7 +116,7 @@
       "website": "https://www.ait.ac.at/en/about-the-ait/center/center-for-vision-automation-control/assistive-autonomous-systems",
       "startDate": "2018-09-01",
       "endDate": "2021-03-14",
-      "summary": "Developing Machine-Learning based Object Detection frameworks for various applications. Diploma Thesis on aerial automation."
+      "summary": "Diploma Thesis on aerial automation. Developing Machine-Learning based Object Detection frameworks for various applications."
     },
     {
       "company": "SMS Group",
@@ -136,23 +124,21 @@
       "website": "https://www.sms-group.com/",
       "startDate": "2017-08-01",
       "endDate": "2018-01-31",
-      "summary": "Developing system for slag slopping prediction for LD-converters in MATLAB for Bachelor Paper."
+      "summary": "First Bachelor Paper. Developing system for slag slopping prediction for LD-converters in MATLAB."
     },
     {
       "company": "Customer Care Solutions",
       "position": "Call Center Agent",
       "website": "https://customer-care-solutions.at/",
       "startDate": "2016-02-01",
-      "endDate": "2016-12-31",
-      "summary": "Handling bus services."
+      "endDate": "2016-12-31"
     },
     {
       "company": "Vienna Red Cross",
       "position": "Paramedic",
       "website": "https://www.roteskreuz.at/wien/home",
       "startDate": "2013-12-01",
-      "endDate": "2014-04-30",
-      "summary": "Paramedic as part of the community service."
+      "endDate": "2014-08-31"
     }
   ],
   "publications": [
@@ -166,13 +152,13 @@
       "name": "PrimitivePose: Generic Model and Representation for 3D Bounding Box Prediction of Unseen Objects",
       "publisher": "International Journal of Semantic Computing (IJSC)",
       "releaseDate": "2023-08-09",
-      "website": "https://www.worldscientific.com/doi/10.1142/S1793351X23620027"
+      "website": "https://doi.org/10.1142/S1793351X23620027"
     },
     {
       "name": "Towards Scene Understanding for Autonomous Operations on Airport Aprons",
       "publisher": "Asian Conference on Computer Vision Workshops (ACCV-W)",
       "releaseDate": "2022-12",
-      "website": "https://openaccess.thecvf.com/content/ACCV2022W/MLCSA/papers/Steininger_Towards_Scene_Understanding_for_Autonomous_Operations_on_Airport_Aprons_ACCVW_2022_paper.pd"
+      "website": "https://doi.org/10.1007/978-3-031-27066-6\\_11"
     },
     {
       "name": "PrimitivePose: 3D Bounding Box Prediction of Unseen Objects via Synthetic Geometric Primitives",
@@ -190,7 +176,7 @@
       "name": "Visual Semantic Context Encoding for Aerial Data Introspection and Domain Prediction",
       "publisher": "Iberian Conference on Pattern Recognition and Image Analysis (IbPRIA)",
       "releaseDate": "2022-04",
-      "website": ""
+      "website": "https://doi.org/10.1007/978-3-031-04881-4\\_34"
     },
     {
       "name": "Pose-aware object recogntion on a mobile platform via learned geometric representations",
@@ -202,31 +188,48 @@
       "name": "Evaluation of Monocular and Stereo Depth Data for Geometry-Assisted Learning of 3D Pose",
       "publisher": "Austrian Association of Pattern Recognition Workshop (OAGM)",
       "releaseDate": "2021-11",
-      "website": "https://openlib.tugraz.at/download.php?id=621f290eceef8&location=browse"
+      "website": "https://doi.org/10.3217/978-3-85125-869-1-01"
     },
     {
       "name": "The Aircraft Context Dataset: Understanding and Optimizing Data Variability in Aerial Domains",
       "publisher": "International Conference on Computer Vision Workshops (ICCV-W)",
       "releaseDate": "2021-11",
-      "website": ""
+      "website": "https://doi.org/10.1109/ICCVW54120.2021.00426"
     },
     {
       "name": "Artificial Neural Networks Based Place Categorization",
       "publisher": "International Symposium for Production Research (ISPR)",
       "releaseDate": "2020-10",
-      "website": "https://link.springer.com/chapter/10.1007/978-3-030-62784-3_17"
+      "website": "https://doi.org/10.1007/978-3-030-62784-3\\_17"
     },
     {
       "name": "Vision-based Docking of a Mobile Robot",
       "publisher": "Joint Austrian Computer Vision and Robotics Workshop (ACVRW)",
       "releaseDate": "2020-04",
-      "website": "https://openlib.tugraz.at/download.php?id=5f6af343ccab6&location=browse"
+      "website": "https://doi.org/10.3217/978-3-85125-752-6-03"
+    },
+    {
+      "name": "Visual Semantic Context Encoding for Data Harvesting and Domain Prediction",
+      "publisher": "University of Applied Sciences Technikum Vienna",
+      "releaseDate": "2020-09",
+      "website": "https://permalink.obvsg.at/ftw/AC16098872"
     },
     {
       "name": "Artifical Neural Networks Based State Transition Modeling and Place Categorization",
       "publisher": "Konferenz der Mechatronik Plattform Österreich",
       "releaseDate": "2018-11",
       "website": "http://www.mechatronik-plattform.at/home/wp-content/uploads/2019/06/Tagungsband_Konferenz_MP_Oesterreich_2018.pdf"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "I Can't Believe It's Not Better (ICBINB)",
+      "position": "Member, Workshop Organizer",
+      "website": "https://icbinb.cc/",
+      "startDate": "2023-03-01",
+      "endDate": "2099",
+      "date": "Ongoing",
+      "summary": "Crack open the research process. Organized NeurIPS workshop 'Failure Modes in the Age of Foundation Models' in 2023 [link](https://sites.google.com/view/icbinb-2023/home)."
     }
   ],
   "languages": [
@@ -236,7 +239,7 @@
     },
     {
       "language": "English",
-      "fluency": "C2 (TOEFL)"
+      "fluency": "TOEFL 116/120 (C2)"
     },
     {
       "language": "Japanese",
@@ -244,7 +247,14 @@
     },
     {
       "language": "Latin",
-      "fluency": "A1"
+      "fluency": "A2"
     }
-  ]
+  ],
+  "references": [
+    {
+      "name": "Professor Margrit Gelautz [link](https://informatics.tuwien.ac.at/people/margrit-gelautz)",
+      "name": "Dr. Wilfried Wöber [link](https://www.technikum-wien.at/en/staff/wilfried-wober/)"
+    }
+  ],
+  "interests": ["Film", "Photography", "Computer", "Piano", "Gym", "Cycling"]
 }
