@@ -9,17 +9,18 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Giefinggasse 4</p>
+    <p>1210 Vienna, Austria</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+I am a PhD Student in **Computer Vision** in the [CVL](https://cvl.tuwien.ac.at/) at [Technical University of Vienna (TU Wien)](https://www.tuwien.at/en/), 
+supervised by [Margrit Gelautz](https://informatics.tuwien.ac.at/people/margrit-gelautz). I am funded by the [Austrian Institute of Technology (AIT)](https://www.ait.ac.at/en/), where I am further advised by 
+[Csaba Beleznai](https://publications.ait.ac.at/de/persons/csaba.beleznai).
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research lies in the intersection of classical Computer Vision, Deep Learning and Computer Graphics, to develop novel methods for highly generic object pose estimation.
+We are specifically interested in the geometry of objects and generate large quantities of synthetic data with rendering engines.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before I joined TU Wien, I received both the BSc and MSc in Mechatronics/Robotics from the [University of Applied Sciences Technikum Wien](https://www.technikum-wien.at/en/) (with distinction).
