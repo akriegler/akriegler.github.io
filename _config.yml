@@ -245,6 +245,7 @@ exclude:
   - _pages/blog.md
   - _pages/profiles.md
   - _pages/dropdown.md
+  - _posts
   - purgecss.config.js
   - README.md
   - readme_preview/
