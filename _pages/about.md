@@ -16,7 +16,7 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I am a PhD Student in **Computer Vision** in the [CVL](https://cvl.tuwien.ac.at/) at [Technical University of Vienna (TU Wien)](https://www.tuwien.at/en/), 
+I am a PhD Student in Computer Vision in the [CVL](https://cvl.tuwien.ac.at/) at [Technical University of Vienna (TU Wien)](https://www.tuwien.at/en/), 
 supervised by [Margrit Gelautz](https://informatics.tuwien.ac.at/people/margrit-gelautz). I am funded by the [Austrian Institute of Technology (AIT)](https://www.ait.ac.at/en/), where I am further advised by 
 [Csaba Beleznai](https://publications.ait.ac.at/de/persons/csaba.beleznai).
 
