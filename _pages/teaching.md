@@ -2,33 +2,36 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: For more details see the courses in [TISS](https://tiss.tuwien.ac.at/)
+description: 
 nav: true
-nav_order: 6
+nav_order: 3
 ---
+For more details you can find the courses in [TISS](https://tiss.tuwien.ac.at/)
 
-
-## Seminar in Computer Vision (188.941) ##
-- Semesters: 2023S
-
-### Details:
-- ID: 188.941 Seminar in Computer Vision
+## Video Analysis (188.329) ##
+- Semester(s) taught: 2021W, 2022W, 2023W
 - Level: Graduate course
 - Professor(s): Margrit Gelautz
-- Semester(s): 2023S
-- Tasks: Help design course syllabus
 - Tasks: Guest lecture (90 mins.)
 - Location: TU Wien, Faculty of Informatics, Favoritenstraße 9-11
 
----
-
 ## Visual Analysis of Human Motion (188.468) ##
-- Semesters: 2022S, 2023S
-
-### Details
-- ID: 188.468 Visual Analysis of Human Motion
+- Semester(s) taught: 2022S, 2023S
 - Level: Graduate course
 - Professor(s): Margrit Gelautz
-- Semester(s): 2022S, 2023S
 - Tasks: Guest lecture (90 mins.)
+- Location: TU Wien, Faculty of Informatics, Favoritenstraße 9-11
+
+## Stereo Vision (188.513) ##
+- Semester(s) taught: 2021S, 2024S
+- Level: Graduate course
+- Professor(s): Margrit Gelautz
+- Tasks: Guest lecture (90 mins.)
+- Location: TU Wien, Faculty of Informatics, Favoritenstraße 9-11
+
+## Seminar in Computer Vision (188.941) ##
+- Semester(s) taught: 2023S
+- Level: Graduate course
+- Professor(s): Margrit Gelautz
+- Tasks: Help design course syllabus, held a guest lecture (90 mins.)
 - Location: TU Wien, Faculty of Informatics, Favoritenstraße 9-11
