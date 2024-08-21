@@ -7,7 +7,7 @@
   abstract={This review paper provides an overview of papers that have studied body movement mirroring and synchrony within the field of human-robot interaction. The papers included in this review cover system studies, which focus on evaluating the technical
 aspects of mirroring and synchrony robotic systems, and user studies, which focus on measuring particular interaction outcomes or attitudes towards robots expressing mirroring and synchrony behaviors. We review the papers in terms of the
 employed robotic platforms and the focus on parts of the body, the techniques used to sense and react to human motion, the evaluation methods, the intended applications of the human-robot interaction systems and the scenarios utilized in user
-studies. Finally, challenges and possible future directions are considered and discussed.}
+studies. Finally, challenges and possible future directions are considered and discussed.},
   selected={true},
   bibtex_show={true},
   title={Review Paper: Body Movement Mirroring and Synchrony in Human-Robot Interaction},
@@ -28,14 +28,13 @@ studies. Finally, challenges and possible future directions are considered and d
   abstract={A considerable amount of research is concerned with the challenging task of estimating three-dimensional (3D) pose and size for multi-object indoor scene con¯gurations. Many existing
 models rely on a priori known object models, such as 3D CAD models and are therefore limited to a prede¯ned set of object categories. This closed-set constraint limits the range of applications
 for robots interacting in dynamic environments where previously unseen objects may appear. This paper addresses this problem with a highly generic 3D bounding box detection method that
-relies entirely on geometric cues obtained from depth data percepts. While the generation of synthetic data, e.g. synthetic depth maps, is commonly used for this task, the well-known synth-
-to-real gap often emerges, which prohibits transition of models trained solely on synthetic data to the real world. To ameliorate this problem, we use stereo depth computation on synthetic
+relies entirely on geometric cues obtained from depth data percepts. While the generation of synthetic data, e.g. synthetic depth maps, is commonly used for this task, the well-known synth-to-real gap often emerges, which prohibits transition of models trained solely on synthetic data to the real world. To ameliorate this problem, we use stereo depth computation on synthetic
 data to obtain pseudo-realistic disparity maps. We then propose an intermediate representation, namely disparity-scaled surface normal (SN) images, which encodes geometry and at the
 same time preserves depth/scale information unlike the commonly used standard SNs. In a series of experiments, we demonstrate the usefulness of our approach, detecting everyday
 objects on a captured data set of tabletop scenes, and compare it to the popular PoseCNN model. We quantitatively show that standard SNs are less adequate for challenging 3D
 detection tasks by comparing predictions from the model trained on disparity alone, SNs and disparity-scaled SNs. Additionally, in an ablation study we investigate the minimal number of
 training samples required for such a learning task. Lastly, we make the tool used for 3D object annotation publicly available at: https://preview.tinyurl.com/3ycn8v5k. A video showcasing
-our results can be found at: https://preview.tinyurl.com/dzdzabek.}
+our results can be found at: https://preview.tinyurl.com/dzdzabek.},
   code={https://github.com/akriegler/PrimitivePose-Annotation-Tool},
   supp={https://drive.google.com/drive/folders/1CKCv6wGnTBDnKX8corvAhON97DNbQw9d},
   author = {Kriegler, Andreas and Beleznai, Csaba and Gelautz, Margrit and Murschitz, Markus and Göbel, Kai},
@@ -54,8 +53,7 @@ our results can be found at: https://preview.tinyurl.com/dzdzabek.}
 @inproceedings{Steininger2022,
   bibtex_show={true},
   abstract={Enhancing logistics vehicles on airport aprons with assistant and autonomous capabilities offers the potential to significantly increase
-safety and efficiency of operations. However, this research area is still underrepresented compared to other automotive domains, especially re-
-garding available image data, which is essential for training and benchmarking AI-based approaches. To mitigate this gap, we introduce a novel
+safety and efficiency of operations. However, this research area is still underrepresented compared to other automotive domains, especially regarding available image data, which is essential for training and benchmarking AI-based approaches. To mitigate this gap, we introduce a novel
 dataset specialized on static and dynamic objects commonly encountered while navigating apron areas. We propose an efficient approach for image
 acquisition as well as annotation of object instances and environmental parameters. Furthermore, we derive multiple dataset variants on which
 we conduct baseline classification and detection experiments. The resulting models are evaluated with respect to their overall performance
@@ -150,7 +148,7 @@ PrimitivePose, is trained as a single-stage multi-task neural network using any 
 oriented bounding boxes, object centroids and object sizes as output. We evaluate PrimitivePose for 3D bounding box prediction
 on difficult unseen objects in a tabletop environment and compare
 it to the popular PoseCNN model – a video showcasing our results
-can be found at: https://preview.tinyurl.com/2pccumvt.}
+can be found at: https://preview.tinyurl.com/2pccumvt.},
   supp={https://drive.google.com/file/d/1Kp2VM9My9US5zMVosbYEZnct0_UOldkp/view},
   author = {Kriegler, Andreas and Beleznai, Csaba and Murschitz, Markus and Göbel, Kai and Gelautz, Margrit},
   title = {PrimitivePose: 3D Bounding Box Prediction of Unseen Objects via Synthetic Geometric Primitives},
@@ -159,7 +157,7 @@ can be found at: https://preview.tinyurl.com/2pccumvt.}
   pages = {190--197},
   doi = {10.1109/IRC55401.2022.00040},
   preview={kriegler2022c.png},
-  slides={kriegler2022cslides.pdf}
+  slides={kriegler2022cslides.pdf},
   pdf={kriegler2022c.pdf}
 }
 
@@ -237,8 +235,7 @@ and applicable to more complex geometries.},
   bibtex_show={true},
   abstract={Despite their increasing demand for assistant and autonomous systems, the recent shift towards data-driven approaches has hardly reached aerial domains, partly due
 to a lack of specific training and test data. We introduce
-the Aircraft Context Dataset, a composition of two intercompatible large-scale and versatile image datasets focus-
-ing on manned aircraft and UAVs, respectively. In addition to fine-grained annotations for multiple learning tasks,
+the Aircraft Context Dataset, a composition of two intercompatible large-scale and versatile image datasets focusing on manned aircraft and UAVs, respectively. In addition to fine-grained annotations for multiple learning tasks,
 we define and apply a set of relevant meta-parameters and
 showcase their potential to quantify dataset variability as
 well as the impact of environmental conditions on model
