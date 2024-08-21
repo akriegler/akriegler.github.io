@@ -9,6 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+    <p>andreas.kriegler@tuwien.ac.at</p>
     <p>Giefinggasse 4</p>
     <p>1210 Vienna, Austria</p>
 
