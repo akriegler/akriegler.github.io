@@ -6,7 +6,7 @@ aspects of mirroring and synchrony robotic systems, and user studies, which focu
 employed robotic platforms and the focus on parts of the body, the techniques used to sense and react to human motion, the evaluation methods, the intended applications of the human-robot interaction systems and the scenarios utilized in user
 studies. Finally, challenges and possible future directions are considered and discussed.},
   selected={true},
-  bibtex_show={true},c
+  bibtex_show={true},
   title={Review Paper: Body Movement Mirroring and Synchrony in Human-Robot Interaction},
   author={Stoeva, Darja and Kriegler, Andreas and Gelautz, Margrit},
   journal={ACM Transactions on Human-Robot Interaction (THRI)},
@@ -378,6 +378,35 @@ of only 78%},
   type = {type},
   institution = {institution},
   date = {date},
+  pdf = {kriegler2018bt2.pdf},
+  abstract = {To aid the high-level path-planning decisions of a mobile robot, the robotics system has to know
+not just where the robot is, but also to identify the type and specifics of that place. This is
+useful in industrial applications such as surveillance and warehousing robots to restrain them
+to certain environments, but also for human-robot collaboration and consumer service robots,
+enabling them to find places such as ”kitchen" and get coffee from it, using a semantic map
+featuring the different class labels. Customarily, a machine- or deep-learning model such as
+a convolutional neural network is trained to correctly classify the current location from a video
+stream. However, a neural network requires fine-tuning for proper generalization and is further
+limited by the closed-set constraint.
+The foundation of this thesis is an extensive state-of-the-art research to identify applications
+of neural networks, classic machine learning and control algorithms for state transition modeling
+and solving classification problems. The aim is to improve the generalization of an existing
+system used at the Queensland University of Technology for place categorization, and to extend
+the set of classes known to the system to relax the closed-set constraint. The system in its
+original state was only capable of classification via the neural network, which did not generalize
+well enough for immediate usage.
+The convolutional neural network used for feature extraction of the image stream has been
+augmented with trained machine learning models such as support vector machines and multi-
+class logistic regression. The usage of these models has extended the classification to include
+new place categories that are part of the finite set of classes, has helped to overcome uncer-
+tainties from images showing features of multiple classes, and has removed the ambiguities
+introduced by the Random Forest of One-vs-All classifiers employed in the original system.
+The augmented system outperforms the basic neural network by correctly classifying 90% of
+images (98% for the three-class environment) instead of only 78%, including a place that the
+neural network was not trained on. In future projects, the images will be captured by mounting
+the camera on a mobile robot, the classification will be expanded to all 12 of the distinct places
+observable on campus, the semantic mapping system will be improved and the knowledge
+acquired will be used to aid high-level path-planning decisions.},
 }
 
 @unpublished{Kriegler2018bt1,
@@ -387,5 +416,29 @@ of only 78%},
   note={Bachelor Thesis 1 - University of Applied Sciences Technikum Vienna},
   type = {type},
   institution = {institution},
+  pdf = {kriegler2018bt1.pdf},
   date = {date},
+  abstract = {Basic Oxygen Steelmaking is the most popular method of steelmaking in the world. It uses Basic Oxygen Furnaces (BOFs for short) to blow pure oxygen at supersonic speed onto the
+surface of the molten pig iron to oxidize the carbon and create steel. During this process slag
+is being created, which fills the converter. When it cannot be contained in the vessel any longer
+it is forced out through the opening at the top. This event is called slopping and it pollutes the
+surrounding environment and reduces the amount of steel yielded by the process. To avoid slopping, the person in charge of the process, refered to as the blower, needs to be provided
+with accurate results of a slopping-forecast and slopping-detection system. They can then take
+actions to lower the level of slag within the vessel.
+Such a system has been developed in graphical programming (LabVIEW) numerous years
+ago and it displays analysis data from optoacoustical measurement devices. Nonetheless, this
+system is nowhere near the current state-of-the-art regarding both the Frontend and Backend
+functionalities. The slopping-prediction is unreliable, and the human-machine interface (HMI)
+does not follow the new companywide styleguide. Therefore, a new system is being developed
+in this thesis, which provides the blower with an intuitive User Interface of the process.
+Furthermore, multiple techniques for slopping-prediction and detection are combined in this
+system.
+An in-house MATLAB-framework is used for the basis of the program, in which modern object-
+oriented programming techniques are prevalent. Interfaces with various components of the
+system, such as two microphones, a camera, the Programmable Logic Controller (PLC) and a
+database, are being developed and simulated. Following the styleguide, a clearly arranged
+HMI is created and thoroughly tested. A complex machine-learning algorithm, which uses both
+static and dynamic process data, is integrated into the system. Even though the system could
+not be tested in real plant conditions, the simulations and results were promising. With this
+algorithm, slopping could be detected in more than 85 out of a 100 analyzed heats.},
 }
