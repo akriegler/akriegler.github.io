@@ -24,12 +24,15 @@ For more details you can find the courses in [TISS](https://tiss.tuwien.ac.at/)
 - Location: TU Wien, Faculty of Informatics, Favoritenstraße 9-11
 
 ## Stereo Vision (188.513) ##
-- Semester(s) taught:
+- Semester(s) taught :
+  - 2021WS, 2024WS
+<!--  
   - <a href="https://github.com/akriegler/akriegler.github.io/blob/master/assets/pdf/StereoVision_SS24_Gastvortrag_TUWEL.pdf" target="_blank">
     <button style="padding:10px 20px; background-color:#4CAF50; color:white; border:none; border-radius:5px; cursor:pointer;">
     2021S
     </button>
     </a>
+-->
 - Level: Graduate course
 - Professor(s): Margrit Gelautz
 - Tasks: Guest lecture (90 mins.)
