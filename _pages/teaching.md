@@ -10,7 +10,7 @@ For more details you can find the courses in [TISS](https://tiss.tuwien.ac.at/)
 
 ## Video Analysis (188.329) ##
 - Semester(s) taught: 
-  - <a href="assets/pdf/StereoVision_SS24_Gastvortrag_TUWEL.pdf" class="btn btn-sm z-depth-0" role="button">WS 2021</a> 
+  - <a href="https://github.com/akriegler/akriegler.github.io/blob/master/assets/pdf/StereoVision_SS24_Gastvortrag_TUWEL.pdf" class="btn btn-sm z-depth-0" role="button">WS 2021</a> 
   - 2022W, 2023W
 - Level: Graduate course
 - Professor(s): Margrit Gelautz
