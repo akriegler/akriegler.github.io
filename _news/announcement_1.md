@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Review paper on body movement imitation](https://dl.acm.org/doi/10.1145/3682074) fully published in ACM **Transactions on Human-Robot Interaction** (THRI)
+[Review paper on body movement imitation](https://dl.acm.org/doi/10.1145/3682074) fully published in ACM **Transactions on Human-Robot Interaction (THRI)**
