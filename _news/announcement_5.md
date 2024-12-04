@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-08-09
+date: 2023-12-16
 inline: true
 related_posts: false
 ---
 
-[PrimitivePose paper](https://www.worldscientific.com/doi/10.1142/S1793351X23620027) on 6D object pose estimation via synthetic 3D primitives published in the **International Journal of Semantic Computing (IJSC)**
+Co-organized the [ICBINB](https://icbinb.cc/): [Failure Modes in the Age of Foundation Models workshop](https://sites.google.com/view/icbinb-2023/home) at NeurIPS 2023 in New Orleans

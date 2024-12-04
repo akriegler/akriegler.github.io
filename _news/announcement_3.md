@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-04-01
+date: 2024-07-13
 inline: true
 related_posts: false
 ---
 
-Proceedings of our NeurIPS workshop published in [**PMLR** volume 239](https://proceedings.mlr.press/v239/)
+Attended the International Computer Vision Summer School (ICVSS 2024) and held a [poster presentation](https://iplab.dmi.unict.it/icvss2024/Posters)

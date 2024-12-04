@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-12-03
+date: 2023-08-09
 inline: true
 related_posts: false
 ---
 
-[ICBINB](https://icbinb.cc/): [Challenges in Applied Deep Learning](https://openreview.net/group?id=ICLR.cc/2025/Workshop_Proposals/Authors&referrer=%5BHomepage%5D(%2F)) workshop accepted at **ICLR 2025** - stay tuned for our Call for Papers and come chat with us in Singapore next April
+[PrimitivePose](https://www.worldscientific.com/doi/10.1142/S1793351X23620027)  for 6D object pose estimation via synthetic 3D primitives published in the International Journal of Semantic Computing (IJSC)
