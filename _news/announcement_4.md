@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-04-01
+date: 2025-02-21
 inline: true
 related_posts: false
 ---
 
-Proceedings of our NeurIPS 2023 workshop published in [PMLR volume 239](https://proceedings.mlr.press/v239/).
+With colleagues from TU Wien - CVL we will showcase our human pose imitation system using our Pepper robot at [Forschungsfest 2025](https://wirtschaftsagentur.at/termine-events-workshops/wiener-forschungsfest-2025/) in Rathaus, Vienna, Austria in late March.

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Organized the [ICBINB](https://icbinb.cc/): [Failure Modes in the Age of Foundation Models workshop](https://sites.google.com/view/icbinb-2023/home) at NeurIPS 2023 in New Orleans. Thanks to all other organizers, contributors, reviewers and attendees for making it a success.
+Organized the [ICBINB](https://icbinb.cc/): [Failure Modes in the Age of Foundation Models workshop](https://sites.google.com/view/icbinb-2023/home) at NeurIPS 2023 in New Orleans, USA. Proceedings published in [PMLR volume 239](https://proceedings.mlr.press/v239/).
