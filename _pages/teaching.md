@@ -16,10 +16,10 @@ For more details you can find the courses in [TISS](https://tiss.tuwien.ac.at/)
 - Location: TU Wien, Faculty of Informatics, Favoritenstraße 9-11
 
 ## Visual Analysis of Human Motion (188.468) ##
-- Semester(s) taught: 2022S, 2023S
+- Semester(s) taught: 2022S, 2023S, 2025S
 - Level: Graduate course
 - Professor(s): Margrit Gelautz
-- Tasks: Guest lecture (90 mins.)
+- Tasks: Guest lecture (45 mins.)
 - Location: TU Wien, Faculty of Informatics, Favoritenstraße 9-11
 
 ## Stereo Vision (188.513) ##

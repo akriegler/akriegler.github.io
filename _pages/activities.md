@@ -9,7 +9,7 @@ nav_order: 4
 
 ## I Can't Believe It's Not Better!
 
-I am an active member of the [ICBINB initiative](https://icbinb.github.io/) since April 2023 and organized multiple workshops at NeurIPS and ICLR with them.
+I am an active member of the [ICBINB initiative](https://icbinb.github.io/) since April 2023 and organized workshops at NeurIPS and ICLR with them.
 
 ## Reviews
 
