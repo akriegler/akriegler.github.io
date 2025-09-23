@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-10-23
+date: 2025-03-24
 inline: true
 related_posts: false
 ---
 
-[Review paper on body movement imitation](https://dl.acm.org/doi/10.1145/3682074) published in the ACM Transactions on Human-Robot Interaction (THRI).
+We (CVL - TU Wien) showcased our human pose imitation system using a Pepper robot at the science fair [Forschungsfest 2025](https://www.tuwien.at/tu-wien/aktuelles/news/das-war-das-wiener-forschungsfest-2025), as part of the [Caring Robots](https://www.caringrobots.eu) project.

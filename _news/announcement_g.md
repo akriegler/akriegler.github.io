@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-08-04
+date: 2023-08-09
 inline: true
 related_posts: false
 ---
 
-Proceedings of our NeurIPS 2023 ICBINB workshop published in [PMLR volume 239](https://proceedings.mlr.press/v239/).
+[PrimitivePose](https://www.worldscientific.com/doi/10.1142/S1793351X23620027)  paper for 6D object pose estimation via synthetic 3D primitives published in the International Journal of Semantic Computing (IJSC), as part of my PhD.
