@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
  
-[Aerial domain prediction](https://drive.google.com/file/d/1ItDGcljAQOYo-HKHJLcC4gAgapCIQPns/view) via semantic context encoding paper, based on my Master's Thesis, published at IbPRIA 2022.
+[Aerial domain prediction](https://drive.google.com/file/d/1ItDGcljAQOYo-HKHJLcC4gAgapCIQPns/view) paper published at IbPRIA 2022.
