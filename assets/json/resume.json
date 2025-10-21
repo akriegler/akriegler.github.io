@@ -145,7 +145,7 @@
     {
       "name": "Review Paper: Body Movement Mirroring and Synchrony in Human-Robot Interaction",
       "publisher": "Association for Computing Machinery (ACM)",
-      "releaseDate": "2024-08-01",
+      "releaseDate": "2024-10-23",
       "website": "https://doi.org/10.1145/3682074"
     },
     {
@@ -229,7 +229,7 @@
       "startDate": "2023-03-01",
       "endDate": "2099",
       "date": "Ongoing",
-      "summary": "Crack open the research process. Organized NeurIPS workshop 'Failure Modes in the Age of Foundation Models' in 2023 [link](https://sites.google.com/view/icbinb-2023/home)."
+      "summary": "Crack open the research process. Organized multiple NeurIPS and ICLR workshops."
     }
   ],
   "languages": [
@@ -258,5 +258,5 @@
       "name": "Dr. Wilfried Wöber [link](https://www.technikum-wien.at/en/staff/wilfried-wober/)"
     }
   ],
-  "interests": ["Film", "Photography", "Computer", "Piano", "Gym", "Cycling"]
+  "interests": ["Computer", "Film", "Gym" ,"Photography", "Piano", "Cycling"]
 }
