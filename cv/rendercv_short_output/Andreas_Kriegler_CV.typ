@@ -503,7 +503,7 @@
 #block(
   [
     #set par(spacing: 0pt)
-    #v(design-highlights-top-margin);#highlights([Advisor: Prof. Margrit Gelautz \(CVL, Faculty of Informatics, TU Wien\)],)
+    
   ],
   inset: (
     left: design-entries-left-and-right-margin,
@@ -561,31 +561,6 @@
   ),
 )
 
-#v(design-entries-vertical-space-between-entries)
-// YES DATE, NO DEGREE
-#two-col-entry(
-  left-content: [
-    #strong[University of Natural Resources and Life Sciences Vienna]
-
-#emph[B.Sc. in Civil Engineering \(discontinued\)]
-  ],
-  right-content: [
-    #emph[Vienna, Austria]
-
-#emph[Oct 2014 – June 2015]
-  ],
-)
-#block(
-  [
-    #set par(spacing: 0pt)
-    
-  ],
-  inset: (
-    left: design-entries-left-and-right-margin,
-    right: design-entries-left-and-right-margin,
-  ),
-)
-
 
 
 == Experience
@@ -605,7 +580,7 @@
 )
 #one-col-entry(
   content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [Besides the dissertation, I am involved in projects on the automation of large-scale machinery.])], column-gutter: 0cm)
+    
   ],
 )
 
@@ -624,7 +599,7 @@
 )
 #one-col-entry(
   content: [
-    #two-col(left-column-width: design-highlights-summary-left-margin, right-column-width: 1fr, left-content: [], right-content: [#v(design-highlights-top-margin);#align(left, [We are working on a robotic imitation system and corresponding publications for the #link("https://www.caringrobots.eu/")[caring robots project]. I am regularly teaching guest lectures and am reviewing external papers as well as internal diploma theses.])], column-gutter: 0cm)
+    
   ],
 )
 
@@ -677,44 +652,6 @@
     #emph[Düsseldorf, Germany]
 
 #emph[Aug 2017 – Jan 2018]
-  ],
-)
-#one-col-entry(
-  content: [
-    
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Call Center Agent]
-
-#emph[Customer Care Solutions]
-  ],
-  right-content: [
-    #emph[Vienna, Austria]
-
-#emph[Feb 2016 – Dec 2016]
-  ],
-)
-#one-col-entry(
-  content: [
-    
-  ],
-)
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Paramedic]
-
-#emph[Vienna Red Cross]
-  ],
-  right-content: [
-    #emph[Vienna, Austria]
-
-#emph[Dec 2013 – Apr 2014]
   ],
 )
 #one-col-entry(
@@ -839,71 +776,7 @@
 )
 
 
-== Certificates
-
-
-#one-col-entry(
-  content: [- TOEFL iBT English Language Certificate with grade \"C2 \(116\/120\)\" \(2022\)],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- Intercultural Skills Certificate from The International Office of the UAS Technikum Wien \(2018\)],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- IAESTE English Language Certificate with grade \"1 - excellent\" from Berlitz language school \(2016\)],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- Dassault Systemes Mechanical Design \(Associate\) certification \(2016\)],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- Japanese language courses with certifications of attendance \(7.5 ECTS in total, 2015-2017\)],
-)
-
-
-== Languages
-
-
-#one-col-entry(
-  content: [- German \(native\)],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- English \(C2\)],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- Japanese \(basic\)],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- Latin \(basic\)],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- Polish \(basic\)],
-)
-
-
-== References
-
-
-#one-col-entry(
-  content: [- Margrit Gelautz, TU Wien, margrit.gelautz\@tuwien.ac.at],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- Wilfried Wöber, FH Technikum Wien, wilfried.woeber\@technikum-wien.at],
-)
-#v(design-entries-vertical-space-between-entries)
-#one-col-entry(
-  content: [- Jörg Thomasberger, SMS Group, joerg.thomasberger\@sms-group.com],
-)
-
-
-== Publications
+== Selected Publications
 
 
 #two-col-entry(
@@ -938,36 +811,6 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[Towards Scene Understanding for Autonomous Operations on Airport Aprons]
-
-  ],
-  right-content: [
-    Mar 2023
-  ],
-)
-#one-col-entry(content:[
-#v(design-highlights-top-margin);D. Steininger, #strong[#emph[A. Kriegler]], W. Pointner, V. Widhalm, J. Simon, O. Zendel
-
-#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1007/978-3-031-27066-6_11")[10.1007/978-3-031-27066-6_11] (16th Asia Conference on Computer Vision \(ACCV 2022\) - The Fourth International Workshop on Machine Learning and Computing for Visual Semantic Analysis)])
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[PrimitivePose: 3D Bounding Box Prediction of Unseen Objects via Synthetic Geometric Primitives]
-
-  ],
-  right-content: [
-    Jan 2023
-  ],
-)
-#one-col-entry(content:[
-#v(design-highlights-top-margin);#strong[#emph[A. Kriegler]], C. Beleznai, M. Murschitz, K. Göbel, M. Gelautz
-
-#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1109/IRC55401.2022.00040")[10.1109/IRC55401.2022.00040] (2022 Sixth IEEE International Conference on Robotic Computing \(IRC\))])
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
     #strong[Paradigmatic Revolutions in Computer Vision]
 
   ],
@@ -979,51 +822,6 @@
 #v(design-highlights-top-margin);#strong[#emph[A. Kriegler]]
 
 #v(design-highlights-top-margin - design-text-leading)#link("https://drive.google.com/file/d/1ItDGcljAQOYo-HKHJLcC4gAgapCIQPns/view")[drive.google.com/file/d/1ItDGcljAQOYo-HKHJLcC4gAgapCIQPns/view] (Advances in Neural Information Processing Systems 35 \(NeurIPS 2022\) - I Can't Believe It's Not Better \(ICBINB\) Workshop)])
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Pose-aware object recognition on a mobile platform via learned geometric representations]
-
-  ],
-  right-content: [
-    July 2022
-  ],
-)
-#one-col-entry(content:[
-#v(design-highlights-top-margin);C. Beleznai, P. Ausserlechner, #strong[#emph[A. Kriegler]], W. Pointner
-
-#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.23919/ASCC56756.2022.9828370")[10.23919/ASCC56756.2022.9828370] (2022 13th Asian Control Conference \(ASCC\))])
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Visual Semantic Context Encoding for Aerial Data Introspection and Domain Prediction]
-
-  ],
-  right-content: [
-    Apr 2022
-  ],
-)
-#one-col-entry(content:[
-#v(design-highlights-top-margin);#strong[#emph[A. Kriegler]], D. Steininger, W. Wöber
-
-#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1007/978-3-031-04881-4_34")[10.1007/978-3-031-04881-4_34] (Iberian Conference on Pattern Recognition and Image Analysis \(IbPRIA\) 2022)])
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Evaluation of Monocular and Stereo Depth Data for Geometry-Assisted Learning of 3D Pose]
-
-  ],
-  right-content: [
-    Nov 2021
-  ],
-)
-#one-col-entry(content:[
-#v(design-highlights-top-margin);#strong[#emph[A. Kriegler]], C. Beleznai, M. Gelautz
-
-#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.3217/978-3-85125-869-1-01")[10.3217/978-3-85125-869-1-01] (Proceedings of the OAGM Workshop 2021)])
 
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
@@ -1043,21 +841,6 @@
 #v(design-entries-vertical-space-between-entries)
 #two-col-entry(
   left-content: [
-    #strong[Artificial Neural Networks Based Place Categorization]
-
-  ],
-  right-content: [
-    Oct 2020
-  ],
-)
-#one-col-entry(content:[
-#v(design-highlights-top-margin);#strong[#emph[A. Kriegler]], W. Wöber, M. Aburaia
-
-#v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.1007/978-3-030-62784-3_17")[10.1007/978-3-030-62784-3_17] (The International Symposium for Production Research \(ISPR\))])
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
     #strong[Vision-based Docking of a Mobile Robot]
 
   ],
@@ -1069,70 +852,6 @@
 #v(design-highlights-top-margin);#strong[#emph[A. Kriegler]], W. Wöber
 
 #v(design-highlights-top-margin - design-text-leading)#link("https://doi.org/10.3217/978-3-85125-752-6-03")[10.3217/978-3-85125-752-6-03] (Joint Austrian Computer Vision and Robotics Workshop \(ACVRW\))])
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[FH Technikum Wien: Artificial Neural Networks Based State Transition Modeling and Place Categorization]
-
-  ],
-  right-content: [
-    Nov 2018
-  ],
-)
-#one-col-entry(content:[
-#v(design-highlights-top-margin);#strong[#emph[A. Kriegler]]
-
-#v(design-highlights-top-margin - design-text-leading)#link("https://mechatronik-plattform.at/wp-content/uploads/2025/04/Tagungsband_2018_FH-Campus02.pdf")[mechatronik-plattform.at/wp-content/uploads/2025/04/Tagungsband_2018_FH-Campus02.pdf] (Konferenz der Mechatronik Plattform Österreich 2018)])
-
-
-
-== Theses
-
-
-#two-col-entry(
-  left-content: [
-    #strong[Visual Semantic Context Encoding for Data Harvesting and Domain Prediction]
-
-  ],
-  right-content: [
-    Sept 2020
-  ],
-)
-#one-col-entry(content:[
-#v(design-highlights-top-margin);#strong[#emph[A. Kriegler]], W. Wöber
-
-#v(design-highlights-top-margin - design-text-leading)#link("https://permalink.obvsg.at/ftw/AC16098872")[permalink.obvsg.at/ftw/AC16098872] (Master's Thesis \(UAS  Technikum Wien\))])
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Artificial Neural Networks based State Transition Modeling and Place Categorization]
-
-  ],
-  right-content: [
-    June 2018
-  ],
-)
-#one-col-entry(content:[
-#v(design-highlights-top-margin);#strong[#emph[A. Kriegler]], W. Wöber
-
-#v(design-highlights-top-margin - design-text-leading)#link("https://www.researchgate.net/publication/352211259_Artificial_Neural_Networks_based_State_Transition_Modeling_and_Place_Categorization")[www.researchgate.net/publication/352211259_Artificial_Neural_Networks_based_State_Transition_Modeling_and_Place_Categorization] (Bachelor's Thesis \(2nd, UAS Technikum Wien\))])
-
-#v(design-entries-vertical-space-between-entries)
-#two-col-entry(
-  left-content: [
-    #strong[Neuentwicklung der Schlackeauswurferkennung auf der Basis von MATLAB]
-
-  ],
-  right-content: [
-    Jan 2018
-  ],
-)
-#one-col-entry(content:[
-#v(design-highlights-top-margin);#strong[#emph[A. Kriegler]], Olaf Nowitzki
-
-#v(design-highlights-top-margin - design-text-leading)#link("https://www.researchgate.net/publication/352211347_Neuentwicklung_der_Schlackeauswurferkennung_auf_der_Basis_von_MATLAB")[www.researchgate.net/publication/352211347_Neuentwicklung_der_Schlackeauswurferkennung_auf_der_Basis_von_MATLAB] (Bachelor's Thesis \(1st, german, UAS Technikum Wien\))])
 
 
 
