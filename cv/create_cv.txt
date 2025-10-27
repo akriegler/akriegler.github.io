@@ -1,6 +1,6 @@
 Run
 
-rendercv render resume_long.yaml --output-folder-name "rendercv_long_output"
+rendercv render resume_full.yaml --output-folder-name "rendercv_full_output"
 
 or
 
