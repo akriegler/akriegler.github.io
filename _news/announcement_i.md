@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2023-01-24
+date: 2025-12-02
 inline: true
 related_posts: false
 ---
- 
-[PrimitivePose](https://ieeexplore.ieee.org/document/10023891) paper on object pose estimation via synthetic 3D primitives published at IRC 2022.
+
+Our next [ICBINB](https://icbinb.cc/) workshop was accepted for ICLR 2026 in Rio de Janeiro - this time focused on shortcomings of LLMs. 
+Submissions are open throughout January, see our [CFP](https://sites.google.com/view/icbinb-2026/submit).
