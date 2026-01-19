@@ -9,7 +9,7 @@ nav_order: 3
 For more details you can find the courses in [TISS](https://tiss.tuwien.ac.at/)
 
 ## Video Analysis (188.329) ##
-- Semester(s) taught: 2021W, 2022W, 2023W
+- Semester(s) taught: 2021W, 2022W, 2023W, 2025W
 - Level: Graduate course
 - Professor(s): Margrit Gelautz
 - Tasks: Guest lecture (90 mins.)
