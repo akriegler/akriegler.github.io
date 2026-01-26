@@ -64,6 +64,7 @@ def get_scholar_citations() -> None:
 
     scholarly.set_timeout(15)
     scholarly.set_retries(3)
+    print('I got UID:', SCHOLAR_USER_ID)
     try:
         author = scholarly.search_author_id(SCHOLAR_USER_ID)
         author_data = scholarly.fill(author)
