@@ -224,7 +224,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages"]
+include: ["_pages", "_scripts"]
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -256,7 +256,9 @@ keep_files:
 
 # Plug-ins
 plugins:
-  - jekyll-archives
+  - jekyll-3rd-party-libraries
+  - jekyll-archives-v2
+  - jekyll-cache-bust
   - jekyll-email-protect
   - jekyll-feed
   - jekyll-get-json
@@ -268,7 +270,9 @@ plugins:
   - jekyll-regex-replace
   - jekyll/scholar
   - jekyll-sitemap
+  - jekyll-socials
   - jekyll-tabs
+  - jekyll-terser
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
@@ -298,15 +302,12 @@ jekyll-minifier:
 
 jekyll-archives:
   enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
-  layouts:
-    year: archive-year
-    tag: archive-tag
-    category: archive-category
   permalinks:
     year: "/blog/:year/"
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
-
+  books:
+    enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
 display_tags: ["formatting", "images", "links", "math", "code", "blockquotes"] # these tags will be displayed on the front page of your blog
 display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
@@ -360,8 +361,14 @@ filtered_bibtex_keywords:
     bibtex_show,
     blog,
     code,
+    dimensions,
+    eprint,
+    google_scholar_id,
+    hal,
     html,
+    inspirehep_id,
     pdf,
+    pmid,
     poster,
     preview,
     selected,
