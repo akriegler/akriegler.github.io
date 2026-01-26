@@ -1,9 +1,0 @@
-Run
-
-rendercv render resume_full.yaml --output-folder-name "rendercv_full_output"
-
-or
-
-rendercv render resume_short.yaml --output-folder-name "rendercv_short_output"
-
-and move the created PDF files to assets/pdf/
