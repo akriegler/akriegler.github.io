@@ -126,7 +126,7 @@ npx prettier . --write
 
 ### 3. About Page Content
 
-**Files:** `_pages/about.md`, `assets/img/prof_pic.jpg`
+**Files:** `_pages/about.md`, `assets/img/profile_pic.png`
 
 - Update biography and profile picture
 - Customize news section visibility
