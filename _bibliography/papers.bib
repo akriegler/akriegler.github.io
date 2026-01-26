@@ -1,28 +1,28 @@
 ---
 ---
 @article {Kriegler2026,
-    bibtex_show={false},
+    bibtex_show={true},
     selected={true},
     abstract = {Symmetric objects are common in daily life and industry, yet their inherent orientation ambiguities that impede the training of deep learning networks for pose estimation are rarely discussed in the literature. To cope with these
     ambiguities, existing solutions typically require the design of specific loss functions and network architectures or resort to symmetry-invariant evaluation metrics. In contrast, we focus on the numeric representation of the rotation itself,
     modifying trigonometric identities with the degrees of symmetry derived from the objects' shapes. We use our representation, SARR, to obtain canonic (symmetry-resolved) poses for the symmetric objects in two popular 6D pose
     estimation datasets, T-LESS and ITODD, where SARR is unique and continuous w.r.t. the visual appearance. This allows us to use a standard CNN for 3D orientation estimation whose performance is evaluated with the symmetry-sensitive
-    cosine distance AR\textsubscript{C}. Our networks outperform the state of the art using AR\textsubscript{C} and achieve satisfactory performance when using conventional symmetry-invariant measures. Our method does not require any
+    cosine distance AR_C. Our networks outperform the state of the art using AR_C and achieve satisfactory performance when using conventional symmetry-invariant measures. Our method does not require any
     3D models but only depth, or, as part of an additional experiment, texture-less RGB/grayscale images as input. We also show that networks trained on SARR outperform the same networks trained on rotation matrices, Euler angles,
     quaternions, standard trigonometrics or the recently popular 6d representation -- even in inference scenarios where no prior knowledge of the objects' symmetry properties is available. Code and a visualization toolkit are available at
-    \url{https://github.com/akriegler/SARR}.},
+    https://github.com/akriegler/SARR.},
     title = {Towards Symmetry-sensitive Pose Estimation: A Rotation Representation for Symmetric Object Classes},
     author = {Kriegler, Andreas and Csaba, Beleznai and Gelautz, Margrit},
     journal = {International Journal of Computer Vision},
-    volume = {0},
-    number = {0},
-    pages = {0},
-    year = {2026},
-    doi = {0},
-    html = {0},
+    %volume = {},
+    %number = {},
+    %pages = {},
+    %year = {2026},
+    %doi = {},
+    %html = {},
     %pdf = {kriegler2026_AAM.pdf},
     %preview = {kriegler2026_AAM_preview.png},
-    google_scholar_id={0},
+    %google_scholar_id={0},
     publisher = {Springer Nature}
 }
 
@@ -80,6 +80,7 @@ our results can be found at: https://preview.tinyurl.com/dzdzabek.},
 
 @inproceedings{Steininger2022,
   bibtex_show={true},
+  selected = {true},
   abstract={Enhancing logistics vehicles on airport aprons with assistant and autonomous capabilities offers the potential to significantly increase
 safety and efficiency of operations. However, this research area is still underrepresented compared to other automotive domains, especially regarding available image data, which is essential for training and benchmarking AI-based approaches. To mitigate this gap, we introduce a novel
 dataset specialized on static and dynamic objects commonly encountered while navigating apron areas. We propose an efficient approach for image
@@ -159,7 +160,7 @@ a paradigm for computer vision in the Kuhnian sense.},
 }
 
 @inproceedings{Kriegler2022c,
-  selected={true},
+  selected={false},
   bibtex_show={true},
   abstract={This paper studies the challenging problem of 3D
 pose and size estimation for multi-object scene configurations

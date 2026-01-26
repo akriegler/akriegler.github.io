@@ -93,12 +93,13 @@ cv:
        location: Vienna, Austria
        start_date: 2013-12
        end_date: 2014-04
-    academic work:
+    volunteer:
       - name: I Can't Believe It's Not Better Initiative
         start_date: 2022
         end_date: "present"
         location: Worldwide
-        summary:  I joined the ICBINB initiative after the NeurIPS 2022 workshop. Our aim is to foster a community beyond benchmark climbing, specifically to provide a venue for negative results as well as introspective works. I helped organize the [2023 NeurIPS](https://sites.google.com/view/icbinb-2023) and [2025 ICLR](https://sites.google.com/view/icbinb-2025) workshops with them. Together with Prof. Neil Lawrence we publish outstanding works in the [Proceedings of Machine Learning Research series](Proceedings of Machine Learning Research).
+        summary: I joined the ICBINB initiative after the NeurIPS 2022 workshop. Our aim is to foster a community beyond benchmark climbing, specifically to provide a venue for negative results as well as introspective works. I helped organize the [2023 NeurIPS](https://sites.google.com/view/icbinb-2023) and [2025 ICLR](https://sites.google.com/view/icbinb-2025) workshops with them. Together with Prof. Neil Lawrence we publish outstanding works in the [Proceedings of Machine Learning Research series](Proceedings of Machine Learning Research).
+    academic work:
       - name:  Teaching (TU Wien, guest lectures)
         highlights:
           - "Stereo Vision (188.513): 2021S, 2024S"
