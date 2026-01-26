@@ -4,8 +4,6 @@ import os
 import sys
 import yaml
 from datetime import datetime
-from scholarly import scholarly
-
 
 def load_scholar_user_id() -> str:
     """Load the Google Scholar user ID from the configuration file."""
@@ -126,6 +124,7 @@ def get_scholar_citations() -> None:
 
 
 if __name__ == "__main__":
+    import scholarly
     try:
         get_scholar_citations()
     except Exception as e:
