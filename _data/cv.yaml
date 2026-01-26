@@ -16,14 +16,14 @@ cv:
     - network: ResearchGate
       username: Andreas-Kriegler
   sections:
-    summary:
+    Summary:
       - PhD student in Computer Vision at TU Wien, set to finish in late 2026.
       - I am a PhD student in Computer Vision at the [CVL](https://cvl.tuwien.ac.at/) at TU Wien. My supervisor is [Prof. Margrit Gelautz](https://informatics.tuwien.ac.at/people/margrit-gelautz). 
        My research is funded by the [AIT Austrian Institute of Technology](https://www.ait.ac.at/) where I am further advised by [Csaba Beleznai](https://publications.ait.ac.at/en/persons/csaba.beleznai).
       - My research lies in the intersection of classical Computer Vision, Deep Learning and Computer Graphics. The goal is to develop novel methods for highly generic object pose estimation. 
        We are specifically interested in the geometry of objects and exploit rendering engines to generate synthetic data.
       - Before joining the PhD program, I received my M.Sc. and B.Sc. degrees in Mechatronics/Robotics from the UAS Technikum Wien, both with distinction.
-    education:
+    Education:
       - institution: TU Wien
         area: Computer Science
         degree: Dr. techn. (PhD)
@@ -55,7 +55,7 @@ cv:
         location: Vienna, Austria
         start_date: 2014-10
         end_date: 2015-06
-    experience:
+    Experience:
      - company: AIT Austrian Institute of Technology
        position: PhD Student
        location: Vienna, Austria
@@ -93,13 +93,13 @@ cv:
        location: Vienna, Austria
        start_date: 2013-12
        end_date: 2014-04
-    volunteer:
+    Volunteer:
       - name: I Can't Believe It's Not Better Initiative
         start_date: 2022
         end_date: "present"
         location: Worldwide
         summary: I joined the ICBINB initiative after the NeurIPS 2022 workshop. Our aim is to foster a community beyond benchmark climbing, specifically to provide a venue for negative results as well as introspective works. I helped organize the [2023 NeurIPS](https://sites.google.com/view/icbinb-2023) and [2025 ICLR](https://sites.google.com/view/icbinb-2025) workshops with them. Together with Prof. Neil Lawrence we publish outstanding works in the [Proceedings of Machine Learning Research series](Proceedings of Machine Learning Research).
-    academic work:
+    Academic work:
       - name:  Teaching (TU Wien, guest lectures)
         highlights:
           - "Stereo Vision (188.513): 2021S, 2024S"
@@ -112,7 +112,7 @@ cv:
       - name: Editor
         highlights:
           - "NeurIPS/ICLR ICBINB workshop proceedings: [PMLR](https://proceedings.mlr.press/)"
-    summer schools:
+    Summer schools:
       - name: International Computer Vision Summer School (ICVSS)
         location: Sicily, Italy
         #start_date: 2024-07-07
@@ -123,31 +123,31 @@ cv:
         #start_date: 2019-07-08
         end_date: 2019-07-12
         summary: Participated in 32 contact hours with exercises at the University of Lincoln
-    awards:
+    Awards:
       - bullet: Graduated with distinction from the Master's degree (2020) at UAS Technikum Wien
       - bullet: Graduated with distinction from the Bachelor's degree (2018) at UAS Technikum Wien
       - bullet: My 2nd Bachelor thesis was nominated as the "Best Bachelor Thesis in Mechatronics in Austria (2018)"
-    scholarships:
+    Scholarships:
       - bullet: Received two scholarships from the UAS Technikum Wien for exceptional academic success (17/18, 19/20)
       - bullet: Received a scholarship from the Karl-Seitz-Stiftung, reserved for students with exceptional academic success and difficult family background (2017)
-    certificates:
+    Certificates:
       - bullet: TOEFL iBT English Language Certificate with grade "C2 (116/120)" (2022)
       - bullet: Intercultural Skills Certificate from The International Office of the UAS Technikum Wien (2018)
       - bullet: IAESTE English Language Certificate with grade "1 - excellent" from Berlitz language school (2016)
       - bullet: Dassault Systemes Mechanical Design (Associate) certification (2016)
       - bullet: Japanese language courses with certifications of attendance (7.5 ECTS in total, 2015-2017)
-    languages:
+    Languages:
       - bullet: German (native)
       - bullet: English (C2)
       - bullet: Japanese (basic)
       - bullet: Latin (basic)
       - bullet: Polish (basic)
-    references:
+    References:
       - bullet: Margrit Gelautz, TU Wien, margrit.gelautz@tuwien.ac.at
       - bullet: Wilfried Wöber, FH Technikum Wien, wilfried.woeber@technikum-wien.at
       - bullet: Jörg Thomasberger, SMS Group, joerg.thomasberger@sms-group.com
       # - bullet: Ferdi Akdag, Customer Care Solutions, daniela.faimann@customer-care-solutions.at
-    publications:
+    Publications:
       - title: "Review Paper: Body Movement Mirroring and Synchrony in Human-Robot Interaction"
         authors:
           - D. Stoeva
@@ -249,7 +249,7 @@ cv:
         date: 2018-11-22
         journal: Konferenz der Mechatronik Plattform Österreich 2018
         url: https://mechatronik-plattform.at/wp-content/uploads/2025/04/Tagungsband_2018_FH-Campus02.pdf
-    theses:
+    Theses:
       - title: Visual Semantic Context Encoding for Data Harvesting and Domain Prediction
         authors:
           - '***A. Kriegler***'
