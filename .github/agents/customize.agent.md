@@ -476,9 +476,9 @@ Help users avoid these frequent errors:
 ## Quick Reference Map
 
 | User wants to...        | Files to modify                                                     | Key documentation                 |
-| ----------------------- | ------------------------------------------------------------------- | --------------------------------- |
+| ----------------------- |---------------------------------------------------------------------| --------------------------------- |
 | Change personal info    | `_config.yml`, `_pages/about.md`                                    | CUSTOMIZE.md § Configuration      |
-| Add profile picture     | `assets/img/prof_pic.jpg`                                           | CUSTOMIZE.md § About page         |
+| Add profile picture     | `assets/img/profile_pic.png`                                        | CUSTOMIZE.md § About page         |
 | Update CV               | `_data/cv.yml` (RenderCV) or `assets/json/resume.json` (JSONResume) | CUSTOMIZE.md § CV information     |
 | Add publications        | `_bibliography/papers.bib`                                          | CUSTOMIZE.md § Publications       |
 | Add blog post           | `_posts/YYYY-MM-DD-title.md`                                        | CUSTOMIZE.md § Blog posts         |
