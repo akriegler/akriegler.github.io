@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A comprehensive study on rotation representations for pose estimation of symmetric objects has been accepted as a regular paper in **IJCV**, as part of my PhD. Sourcecode is already available [here](https://github.com/akriegler/SARR).
+A comprehensive study on rotation representations for pose estimation of symmetric objects has been accepted as a regular paper in **IJCV**, as part of my PhD. Sourcecode is already available [here](https://github.com/akriegler/SARR). OpenAccess publication is coming soon!
