@@ -3,6 +3,7 @@
 import os
 import sys
 import yaml
+from scholarly import scholarly
 from datetime import datetime
 
 def load_scholar_user_id() -> str:
@@ -124,7 +125,6 @@ def get_scholar_citations() -> None:
 
 
 if __name__ == "__main__":
-    import scholarly
     try:
         get_scholar_citations()
     except Exception as e:
