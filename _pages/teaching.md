@@ -5,6 +5,7 @@ title: Teaching
 description: 
 nav: true
 nav_order: 3
+calendar: false
 ---
 For more details you can find the courses in [TISS](https://tiss.tuwien.ac.at/)
 

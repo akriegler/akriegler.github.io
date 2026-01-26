@@ -6,16 +6,21 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>andreas.kriegler@tuwien.ac.at</p>
     <p>Giefinggasse 4</p>
     <p>1210 Vienna, Austria</p>
 
-news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
+
+announcements:
+  enabled: true # includes a list of news items
+  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  limit: 7 # leave blank to include all the news in the `_news` folder
+
 ---
 I am a PhD Student in Computer Vision in the [CVL](https://cvl.tuwien.ac.at/) at [Technical University of Vienna (TU Wien)](https://www.tuwien.at/en/), 
 supervised by [Margrit Gelautz](https://informatics.tuwien.ac.at/people/margrit-gelautz). I am funded by the [Austrian Institute of Technology (AIT)](https://www.ait.ac.at/en/), where I am further advised by 
