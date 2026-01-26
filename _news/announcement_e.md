@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-07-13
+date: 2026-01-26
 inline: true
 related_posts: false
 ---
 
-Attended **ICVSS 2024** and held a [poster presentation](https://iplab.dmi.unict.it/icvss2024/Posters).
+A comprehensive study on rotation representations for pose estimation of symmetric objects has been accepted for publication as a regular paper in **IJCV**, as part of my PhD. Sourcecode is already available [here](https://github.com/akriegler/SARR).
