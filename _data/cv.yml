@@ -5,7 +5,7 @@ cv:
   website: https://andreaskriegler.eu
   email: krieglerandreas@gmail.com
   phone: +43 670 5563965
-  photo: 'C:\Users\andi_.HIRILONDE\PycharmProjects\akriegler.github.io\assets\img\profile_pic.png'
+  photo: ../assets/img/profile_pic.png
   social_networks:
     - network: Google Scholar
       username: xzhMsboAAAAJ
@@ -16,8 +16,8 @@ cv:
     - network: ResearchGate
       username: Andreas-Kriegler
   sections:
-    Summary:
-      - PhD student in Computer Vision at TU Wien, set to finish in late 2026.
+    summary:
+      - PhD student in Computer Vision at TU Wien, set to finish in 2027.
       - I am a PhD student in Computer Vision at the [CVL](https://cvl.tuwien.ac.at/) at TU Wien. My supervisor is [Prof. Margrit Gelautz](https://informatics.tuwien.ac.at/people/margrit-gelautz). 
        My research is funded by the [AIT Austrian Institute of Technology](https://www.ait.ac.at/) where I am further advised by [Csaba Beleznai](https://publications.ait.ac.at/en/persons/csaba.beleznai).
       - My research lies in the intersection of classical Computer Vision, Deep Learning and Computer Graphics. The goal is to develop novel methods for highly generic object pose estimation. 
@@ -271,59 +271,3 @@ cv:
         date: 2018-01-20
         journal: Bachelor's Thesis (1st, german, UAS Technikum Wien)
         url: "https://www.researchgate.net/publication/352211347_Neuentwicklung_der_Schlackeauswurferkennung_auf_der_Basis_von_MATLAB"
-
-design:
-  theme: sb2nov
-
-locale:
-  language: en
-  phone_number_format: international
-  page_numbering_template: NAME - Page PAGE_NUMBER of TOTAL_PAGES
-  last_updated_date_template: Last updated in TODAY
-  date_template: MONTH_ABBREVIATION YEAR
-  month: month
-  months: months
-  year: year
-  years: years
-  present: present
-  to: –
-  abbreviations_for_months:
-    - Jan
-    - Feb
-    - Mar
-    - Apr
-    - May
-    - June
-    - July
-    - Aug
-    - Sept
-    - Oct
-    - Nov
-    - Dec
-  full_names_of_months:
-    - January
-    - February
-    - March
-    - April
-    - May
-    - June
-    - July
-    - August
-    - September
-    - October
-    - November
-    - December
-
-rendercv_settings:
-  date: "2025-10-22"
-  #bold_keywords:
-    #- ''
-  render_command:
-    output_folder_name: rendercv_output
-    pdf_path: NAME_IN_SNAKE_CASE_CV.pdf
-    typst_path: NAME_IN_LOWER_SNAKE_CASE_cv.typ
-    html_path: NAME_IN_KEBAB_CASE_CV.html
-    markdown_path: NAME.md
-    dont_generate_html: false
-    dont_generate_markdown: false
-    dont_generate_png: false
