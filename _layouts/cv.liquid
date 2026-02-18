@@ -32,11 +32,12 @@ layout: default
         </a>
       {% endif %}
     </h1>
-    {% if page.description %}
+      {% comment %}{% if page.description %}
       <p class="post-description">{{ page.description }}</p>
     {% endif %}
+    {%endcomment%}
   </header>
-
+{% comment %}
   <article>
     <div class="cv">
       {% comment %} Determine which CV format to render {% endcomment %}
@@ -382,5 +383,5 @@ layout: default
         <p>No CV data found. Please configure either RenderCV (cv.yml) or JSONResume (resume.json) data.</p>
       {% endif %}
     </div>
-  </article>
+  </article>{% endcomment %}
 </div>

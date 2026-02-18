@@ -6,6 +6,7 @@ cv:
   email: krieglerandreas@gmail.com
   phone: +43 670 5563965
   photo: ../assets/img/profile_pic.png
+  description: pl
   social_networks:
     - network: Google Scholar
       username: xzhMsboAAAAJ
