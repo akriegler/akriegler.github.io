@@ -78,7 +78,8 @@ def get_scholar_citations() -> None:
         return
 
     citation_data = {
-        "metadata": {"last_updated": today},
+        "metadata":
+            {"last_updated": today},
         "papers": {},
     }
 
@@ -86,7 +87,7 @@ def get_scholar_citations() -> None:
 
     for article in articles:
         try:
-            pub_id = article.get("author_pub_id")
+            pub_id = article.get("citation_id")
             title = article.get("title", "Unknown Title")
             year = article.get("year", "Unknown Year")
             citations = article.get("cited_by", {}).get("value", 0)
