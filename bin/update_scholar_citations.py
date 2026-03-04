@@ -90,12 +90,12 @@ def get_scholar_citations() -> None:
             pub_id = article.get("citation_id")
             title = article.get("title", "Unknown Title")
             year = article.get("year", "Unknown Year")
-            citations = article.get("cited_by", {}).get("value", 0)
+            citations = article.get("cited_by", {}).get("value", 0) if article.get("cited_by", {}).get("value", 0) is not None else 0
 
             if not pub_id:
                 continue
 
-            print(f"Found: {title} ({year}) - Citations: {citations}")
+            #print(f"Found: {title} ({year}) - Citations: {citations}")
 
             citation_data["papers"][pub_id] = {
                 "title": title,
