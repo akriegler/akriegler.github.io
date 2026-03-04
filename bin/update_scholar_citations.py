@@ -66,13 +66,6 @@ def get_scholar_citations() -> None:
         try:
             with open(OUTPUT_FILE, "r") as f:
                 existing_data = yaml.safe_load(f)
-            if (
-                existing_data
-                and "metadata" in existing_data
-                and existing_data["metadata"].get("last_updated") == today
-            ):
-                print("Citations already updated today. Skipping.")
-                return
         except Exception:
             pass
 
