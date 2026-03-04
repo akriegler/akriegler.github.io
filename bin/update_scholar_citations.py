@@ -78,6 +78,7 @@ def get_scholar_citations() -> None:
 
     print("Calling SerpAPI...")
     data = fetch_from_serpapi(SCHOLAR_USER_ID)
+    print(data)
 
     if not data:
         print("Failed to retrieve data from SerpAPI. Skipping update.")
