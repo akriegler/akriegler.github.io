@@ -3,7 +3,7 @@ print("Script started")
 import os
 import sys
 import yaml
-from scholarly import scholarly, ProxyGenerator
+from scholarly import scholarly#, ProxyGenerator
 from datetime import datetime
 
 def load_scholar_user_id() -> str:
@@ -60,13 +60,15 @@ def get_scholar_citations() -> None:
 
     citation_data = {"metadata": {"last_updated": today}, "papers": {}}
 
-    pg = ProxyGenerator()
-    pg.FreeProxies()
-    scholarly.use_proxy(pg)
+    #pg = ProxyGenerator()
+    #pg.FreeProxies()
+    #scholarly.use_proxy(pg)
     scholarly.set_timeout(15)
     scholarly.set_retries(3)
     try:
+        print('getting author')
         author = scholarly.search_author_id(SCHOLAR_USER_ID)
+        print('getting publications')
         author_data = scholarly.fill(author)
     except Exception as e:
         print(
