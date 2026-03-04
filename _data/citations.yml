@@ -6,7 +6,7 @@ papers:
     title: Body Movement Mirroring and Synchrony in Human-Robot Interaction
     year: '2024'
   xzhMsboAAAAJ:2osOgNQ5qMEC:
-    citations: null
+    citations: 0
     title: Visual Semantic Context Encoding for Aerial Data Introspection and Domain Prediction
     year: '2022'
   xzhMsboAAAAJ:IjCSPb-OGe4C:
@@ -22,11 +22,11 @@ papers:
     title: Evaluation of monocular and stereo depth data for geometry-assisted learning of 3D pose
     year: '2021'
   xzhMsboAAAAJ:UebtZRa9Y70C:
-    citations: null
+    citations: 0
     title: 'PrimitivePose: Generic Model and Representation for 3D Bounding Box Prediction of Unseen Objects'
     year: '2023'
   xzhMsboAAAAJ:YsMSGLbcyi4C:
-    citations: null
+    citations: 0
     title: 'FH Technikum Wien: Artificial Neural Networks Based State Transition Modeling and Place Categorization'
     year: '2018'
   xzhMsboAAAAJ:_FxGoFyzp5QC:
@@ -46,6 +46,6 @@ papers:
     title: 'Primitivepose: 3d bounding box prediction of unseen objects via synthetic geometric primitives'
     year: '2022'
   xzhMsboAAAAJ:zYLM7Y9cAGgC:
-    citations: null
+    citations: 0
     title: Artificial Neural Networks Based Place Categorization
     year: '2020'
