@@ -1,9 +1,9 @@
 #!/usr/bin/env python
-
+print("Script started")
 import os
 import sys
 import yaml
-from scholarly import scholarly
+from scholarly import scholarly, ProxyGenerator
 from datetime import datetime
 
 def load_scholar_user_id() -> str:
@@ -34,7 +34,6 @@ def load_scholar_user_id() -> str:
 SCHOLAR_USER_ID: str = load_scholar_user_id()
 OUTPUT_FILE: str = "_data/citations.yml"
 
-
 def get_scholar_citations() -> None:
     """Fetch and update Google Scholar citation data."""
     print(f"Fetching citations for Google Scholar ID: {SCHOLAR_USER_ID}")
@@ -61,6 +60,9 @@ def get_scholar_citations() -> None:
 
     citation_data = {"metadata": {"last_updated": today}, "papers": {}}
 
+    pg = ProxyGenerator()
+    pg.FreeProxies()
+    scholarly.use_proxy(pg)
     scholarly.set_timeout(15)
     scholarly.set_retries(3)
     try:
@@ -128,4 +130,4 @@ if __name__ == "__main__":
         get_scholar_citations()
     except Exception as e:
         print(f"Unexpected error: {e}")
-        sys.exit(1)
+        return
