@@ -10,6 +10,8 @@ on:
 jobs:
   update-citations:
     runs-on: ubuntu-latest
+    env:
+      SERPAPI_KEY: ${{ secrets.SERPAPI_KEY }}
 
     steps:
       - name: Checkout repository
