@@ -130,4 +130,4 @@ if __name__ == "__main__":
         get_scholar_citations()
     except Exception as e:
         print(f"Unexpected error: {e}")
-        return
+        sys.exit(1)
