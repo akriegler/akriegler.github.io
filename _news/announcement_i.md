@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our next [ICBINB](https://icbinb.cc/) workshop will be held at **ICLR 2026** in Rio de Janeiro - this time focused on the shortcomings of LLMs. 
-Submissions are open until January 31st, see our [CFP](https://sites.google.com/view/icbinb-2026/submit).
+Our [next ICBINB workshop](https://sites.google.com/view/icbinb-2026) will be held at **ICLR 2026** in Rio de Janeiro, focused on the shortcomings of LLMs. 
+Thanks to all authors and reviewers making it possible!
