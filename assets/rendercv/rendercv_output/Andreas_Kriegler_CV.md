@@ -1,6 +1,5 @@
 # Andreas Kriegler's CV
 
-- Phone: +43 670 5563965
 - Email: [krieglerandreas@gmail.com](mailto:krieglerandreas@gmail.com)
 - Location: Vienna, Austria
 - Website: [andreaskriegler.eu](https://andreaskriegler.eu/)
@@ -236,6 +235,16 @@ Participated in 32 contact hours with exercises at the University of Lincoln
 - Jörg Thomasberger, SMS Group, joerg.thomasberger@sms-group.com
 
 # Publications
+## **Towards Symmetry-sensitive Pose Estimation: A Rotation Representation for Symmetric Object Classes**
+
+Apr 2026
+
+***A. Kriegler***, C. Beleznai, M. Gelautz
+
+[10.1007/s11263-026-02770-x](https://doi.org/10.1007/s11263-026-02770-x) (International Journal of Computer Vision (IJCV))
+
+
+
 ## **Review Paper: Body Movement Mirroring and Synchrony in Human-Robot Interaction**
 
 Oct 2024
