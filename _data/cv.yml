@@ -4,7 +4,7 @@ cv:
   location: Vienna, Austria
   website: https://andreaskriegler.eu
   email: krieglerandreas@gmail.com
-  phone: +43 670 5563965
+  # phone: +43 670 5563965
   photo: ../assets/img/profile_pic.png
   social_networks:
     - network: Google Scholar
@@ -148,6 +148,14 @@ cv:
       - bullet: Jörg Thomasberger, SMS Group, joerg.thomasberger@sms-group.com
       # - bullet: Ferdi Akdag, Customer Care Solutions, daniela.faimann@customer-care-solutions.at
     Publications:
+      - title: "Towards Symmetry-sensitive Pose Estimation: A Rotation Representation for Symmetric Object Classes"
+        authors:
+          - '***A. Kriegler***'
+          - C. Beleznai
+          - M. Gelautz
+        date: 2026-04-07
+        journal: International Journal of Computer Vision (IJCV)
+        doi: 10.1007/s11263-026-02770-x
       - title: "Review Paper: Body Movement Mirroring and Synchrony in Human-Robot Interaction"
         authors:
           - D. Stoeva
