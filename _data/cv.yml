@@ -275,7 +275,7 @@ cv:
 # for more options, see https://docs.rendercv.com/user_guide/yaml_input_structure/locale/
 locale:
   language: english
-  last_updated: Last in
+  last_updated: Last updated in
   month: month
   months: months
   year: year
@@ -311,6 +311,10 @@ locale:
 # for more options, see https://docs.rendercv.com/user_guide/yaml_input_structure/design/
 design:
   theme: sb2nov
+  page:
+    size: a4
+    show_footer: true
+    show_top_note: true
 
 # for details on settings, see https://docs.rendercv.com/user_guide/yaml_input_structure/settings/
 settings:
@@ -325,5 +329,5 @@ settings:
     dont_generate_html: false
     dont_generate_typst: false # typst generation is required for pdf output
     dont_generate_pdf: false
-    dont_generate_png: false
+    dont_generate_png: true
   bold_keywords: []
