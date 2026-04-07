@@ -3,7 +3,7 @@ settings:
   render_command:
     # Paths must be relative to _data/cv.yaml
     design: ../assets/rendercv/design.yaml
-    local: ../assets/rendercv/locale.yaml
+    locale: ../assets/rendercv/locale.yaml
     typst_path: ../assets/rendercv/rendercv_output/NAME_IN_SNAKE_CASE_CV.typ
     pdf_path: ../assets/rendercv/rendercv_output/NAME_IN_SNAKE_CASE_CV.pdf
     markdown_path: ../assets/rendercv/rendercv_output/NAME_IN_SNAKE_CASE_CV.md
