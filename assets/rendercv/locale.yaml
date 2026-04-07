@@ -1,7 +1,7 @@
 # for more options, see https://docs.rendercv.com/user_guide/yaml_input_structure/locale/
 locale:
   language: english
-  last_updated: Last updated in
+  last_updated: Last in
   month: month
   months: months
   year: year
