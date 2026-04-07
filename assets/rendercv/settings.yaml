@@ -1,51 +1,9 @@
-# for more options, see https://docs.rendercv.com/user_guide/yaml_input_structure/design/
-design:
-  theme: sb2nov
-  page:
-    size: a4
-    show_footer: true
-    show_top_note: true
-
-# for more options, see https://docs.rendercv.com/user_guide/yaml_input_structure/locale/
-locale:
-  language: english
-  last_updated: Last in
-  month: month
-  months: months
-  year: year
-  years: years
-  present: present
-  month_abbreviations:
-    - Jan
-    - Feb
-    - Mar
-    - Apr
-    - May
-    - June
-    - July
-    - Aug
-    - Sept
-    - Oct
-    - Nov
-    - Dec
-  month_names:
-    - January
-    - February
-    - March
-    - April
-    - May
-    - June
-    - July
-    - August
-    - September
-    - October
-    - November
-    - December
-
 # for details on settings, see https://docs.rendercv.com/user_guide/yaml_input_structure/settings/
 settings:
   render_command:
     # Paths must be relative to _data/cv.yaml
+    design: ../assets/rendercv/design.yaml
+    local: ../assets/rendercv/locale.yaml
     typst_path: ../assets/rendercv/rendercv_output/NAME_IN_SNAKE_CASE_CV.typ
     pdf_path: ../assets/rendercv/rendercv_output/NAME_IN_SNAKE_CASE_CV.pdf
     markdown_path: ../assets/rendercv/rendercv_output/NAME_IN_SNAKE_CASE_CV.md
