@@ -32,17 +32,7 @@ jobs:
             echo "No cv.yml file found!"
             exit 1
           fi
-          rendercv_dir=$(find assets -maxdepth 1 -type d -name "rendercv")
-          if [ -z "$rendercv_dir" ]; then
-            echo "No RenderCV config directory found!"
-            exit 1
-          fi
-          settings=$(find $rendercv_dir -maxdepth 1 -type f \( -name "settings.yaml" -o -name "settings.yml" \))
-          if [ -z "$settings" ]; then
-            echo "Missing RenderCV config file!"
-            exit 1
-          fi
-          rendercv render $cv_file --settings $settings
+          rendercv render $cv_file
           rm assets/rendercv/rendercv_output/*.typ
       - name: Upload rendercv_output as an artifact
         uses: actions/upload-artifact@v4

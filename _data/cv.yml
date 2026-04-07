@@ -271,3 +271,59 @@ cv:
         date: 2018-01-20
         journal: Bachelor's Thesis (1st, german, UAS Technikum Wien)
         url: "https://www.researchgate.net/publication/352211347_Neuentwicklung_der_Schlackeauswurferkennung_auf_der_Basis_von_MATLAB"
+
+# for more options, see https://docs.rendercv.com/user_guide/yaml_input_structure/locale/
+locale:
+  language: english
+  last_updated: Last in
+  month: month
+  months: months
+  year: year
+  years: years
+  present: present
+  month_abbreviations:
+    - Jan
+    - Feb
+    - Mar
+    - Apr
+    - May
+    - June
+    - July
+    - Aug
+    - Sept
+    - Oct
+    - Nov
+    - Dec
+  month_names:
+    - January
+    - February
+    - March
+    - April
+    - May
+    - June
+    - July
+    - August
+    - September
+    - October
+    - November
+    - December
+
+# for more options, see https://docs.rendercv.com/user_guide/yaml_input_structure/design/
+design:
+  theme: sb2nov
+
+# for details on settings, see https://docs.rendercv.com/user_guide/yaml_input_structure/settings/
+settings:
+  render_command:
+    # Paths must be relative to _data/cv.yaml
+    typst_path: ../assets/rendercv/rendercv_output/NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: ../assets/rendercv/rendercv_output/NAME_IN_SNAKE_CASE_CV.pdf
+    markdown_path: ../assets/rendercv/rendercv_output/NAME_IN_SNAKE_CASE_CV.md
+    html_path: ../assets/rendercv/rendercv_output/NAME_IN_SNAKE_CASE_CV.html
+    png_path: ../assets/rendercv/rendercv_output/NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false # typst generation is required for pdf output
+    dont_generate_pdf: false
+    dont_generate_png: false
+  bold_keywords: []
