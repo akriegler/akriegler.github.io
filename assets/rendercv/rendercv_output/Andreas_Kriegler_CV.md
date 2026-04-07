@@ -20,151 +20,129 @@ My research lies in the intersection of classical Computer Vision, Deep Learning
 Before joining the PhD program, I received my M.Sc. and B.Sc. degrees in Mechatronics/Robotics from the UAS Technikum Wien, both with distinction.
 
 # Education
-## **TU Wien**, Computer Science
-
-**Dr. techn. (PhD)**
-
-
-Vienna, Austria
+## **TU Wien**
+*Vienna, Austria*
 
 
-Mar 2021 – present
+*Mar 2021 – present*
+
+*Dr. techn. (PhD)* *in* *Computer Science*
 
 - Advisor: Prof. Margrit Gelautz (CVL, Faculty of Informatics, TU Wien)
 
 
 
-## **University of Applied Sciences Technikum Wien**, Mechatronics/Robotics
-
-**M.Sc. (with distinction)**
-
-
-Vienna, Austria
+## **University of Applied Sciences Technikum Wien**
+*Vienna, Austria*
 
 
-Sept 2018 – Oct 2020
+*Sept 2018 – Oct 2020*
+
+*M.Sc. (with distinction)* *in* *Mechatronics/Robotics*
 
 
 
-## **University of Applied Sciences Technikum Wien**, Mechatronics/Robotics
-
-**B.Sc. (with distinction)**
-
-
-Vienna, Austria
+## **University of Applied Sciences Technikum Wien**
+*Vienna, Austria*
 
 
-Sept 2015 – June 2018
+*Sept 2015 – June 2018*
+
+*B.Sc. (with distinction)* *in* *Mechatronics/Robotics*
 
 
 
-## **University of Natural Resources and Life Sciences Vienna**, Civil Engineering (discontinued)
-
-**B.Sc.**
-
-
-Vienna, Austria
+## **University of Natural Resources and Life Sciences Vienna**
+*Vienna, Austria*
 
 
-Oct 2014 – June 2015
+*Oct 2014 – June 2015*
+
+*B.Sc.* *in* *Civil Engineering (discontinued)*
 
 
 
 # Experience
-## **AIT Austrian Institute of Technology**, PhD Student
+## **PhD Student**
 
-Vienna, Austria
+*Vienna, Austria*
 
-Mar 2021 – present
+*Mar 2021 – present*
 
-
-
-5 years 2 months
+*AIT Austrian Institute of Technology*
 
 Besides the dissertation, I am involved in projects on the automation of large-scale machinery.
 
 
 
-## **TU WIEN**, Univ. Research Assistant (external)
+## **Univ. Research Assistant (external)**
 
-Vienna, Austria
+*Vienna, Austria*
 
-Mar 2021 – present
+*Mar 2021 – present*
 
-
-
-5 years 2 months
+*TU WIEN*
 
 We are working on a robotic imitation system and corresponding publications for the [caring robots project](https://www.caringrobots.eu/). I am regularly teaching guest lectures and am reviewing external papers as well as internal diploma theses.
 
 
 
-## **AIT Austrian Institute of Technology**, Computer Vision Engineer
+## **Computer Vision Engineer**
 
-Vienna, Austria
+*Vienna, Austria*
 
-Nov 2020 – Mar 2021
+*Nov 2020 – Mar 2021*
 
-
-
-5 months
+*AIT Austrian Institute of Technology*
 
 
 
-## **AIT Austrian Institute of Technology**, Diploma Student
+## **Diploma Student**
 
-Vienna, Austria
+*Vienna, Austria*
 
-Sept 2018 – Oct 2020
+*Sept 2018 – Oct 2020*
 
-
-
-2 years 2 months
+*AIT Austrian Institute of Technology*
 
 
 
-## **SMS Group**, Application and Control Engineering Intern
+## **Application and Control Engineering Intern**
 
-Düsseldorf, Germany
+*Düsseldorf, Germany*
 
-Aug 2017 – Jan 2018
+*Aug 2017 – Jan 2018*
 
-
-
-6 months
+*SMS Group*
 
 
 
-## **Customer Care Solutions**, Call Center Agent
+## **Call Center Agent**
 
-Vienna, Austria
+*Vienna, Austria*
 
-Feb 2016 – Dec 2016
+*Feb 2016 – Dec 2016*
 
-
-
-11 months
+*Customer Care Solutions*
 
 
 
-## **Vienna Red Cross**, Paramedic
+## **Paramedic**
 
-Vienna, Austria
+*Vienna, Austria*
 
-Dec 2013 – Apr 2014
+*Dec 2013 – Apr 2014*
 
-
-
-5 months
+*Vienna Red Cross*
 
 
 
 # Volunteer
 ## **I Can't Believe It's Not Better Initiative**
 
-Worldwide
+*Worldwide*
 
-2022 – present
+*2022 – present*
 
 I joined the ICBINB initiative after the NeurIPS 2022 workshop. Our aim is to foster a community beyond benchmark climbing, specifically to provide a venue for negative results as well as introspective works. I helped organize the [2023 NeurIPS](https://sites.google.com/view/icbinb-2023) and [2025 ICLR](https://sites.google.com/view/icbinb-2025) workshops with them. Together with Prof. Neil Lawrence we publish outstanding works in the [Proceedings of Machine Learning Research series](Proceedings of Machine Learning Research).
 
@@ -198,9 +176,9 @@ I joined the ICBINB initiative after the NeurIPS 2022 workshop. Our aim is to fo
 # Summer schools
 ## **International Computer Vision Summer School (ICVSS)**
 
-Sicily, Italy
+*Sicily, Italy*
 
-July 2024
+*July 2024*
 
 Attended the summer school and passed the examination session (1h)
 
@@ -208,9 +186,9 @@ Attended the summer school and passed the examination session (1h)
 
 ## **British Machine Vision Association Computer Vision Summer School**
 
-Lincoln, United Kingdom
+*Lincoln, United Kingdom*
 
-July 2019
+*July 2019*
 
 Participated in 32 contact hours with exercises at the University of Lincoln
 
