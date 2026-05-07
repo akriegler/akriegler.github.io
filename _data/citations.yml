@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-05-06'
 papers:
   xzhMsboAAAAJ:0EnyYjriUFMC:
-    citations: 9
+    citations: 11
     title: Body Movement Mirroring and Synchrony in Human-Robot Interaction
     year: '2024'
   xzhMsboAAAAJ:2osOgNQ5qMEC:
@@ -13,12 +13,8 @@ papers:
     citations: 1
     title: Pose-aware object recognition on a mobile platform via learned geometric representations*
     year: '2022'
-  xzhMsboAAAAJ:KlAtU1dfN6UC:
-    citations: 0
-    title: 'Towards Symmetry-sensitive Pose Estimation: A Rotation Representation for Symmetric Object Classes'
-    year: '2026'
   xzhMsboAAAAJ:MXK_kJrjxJIC:
-    citations: 9
+    citations: 10
     title: Towards scene understanding for autonomous operations on airport aprons
     year: '2022'
   xzhMsboAAAAJ:UeHWp8X0CEIC:
@@ -26,19 +22,23 @@ papers:
     title: Evaluation of monocular and stereo depth data for geometry-assisted learning of 3D pose
     year: '2021'
   xzhMsboAAAAJ:UebtZRa9Y70C:
-    citations: 0
+    citations: 1
     title: 'PrimitivePose: Generic Model and Representation for 3D Bounding Box Prediction of Unseen Objects'
     year: '2023'
   xzhMsboAAAAJ:YsMSGLbcyi4C:
     citations: 0
     title: 'FH Technikum Wien: Artificial Neural Networks Based State Transition Modeling and Place Categorization'
     year: '2018'
+  xzhMsboAAAAJ:Zph67rFs4hoC:
+    citations: 0
+    title: 'Towards Symmetry-sensitive Pose Estimation: A Rotation Representation for Symmetric Object Classes'
+    year: '2026'
   xzhMsboAAAAJ:_FxGoFyzp5QC:
     citations: 3
     title: Paradigmatic Revolutions in Computer Vision
     year: '2022'
   xzhMsboAAAAJ:d1gkVwhDpl0C:
-    citations: 17
+    citations: 18
     title: 'The Aircraft Context Dataset: Understanding and Optimizing Data Variability in Aerial Domains'
     year: '2021'
   xzhMsboAAAAJ:eQOLeE2rZwMC:
@@ -46,7 +46,7 @@ papers:
     title: Vision-based Docking of a Mobile Robot
     year: '2020'
   xzhMsboAAAAJ:roLk4NBRz8UC:
-    citations: 3
+    citations: 4
     title: 'Primitivepose: 3d bounding box prediction of unseen objects via synthetic geometric primitives'
     year: '2022'
   xzhMsboAAAAJ:zYLM7Y9cAGgC:
