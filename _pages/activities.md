@@ -9,7 +9,11 @@ nav_order: 4
 
 ## I Can't Believe It's Not Better!
 
-I am an active member of the [ICBINB initiative](https://icbinb.github.io/) since April 2023 and organized workshops at NeurIPS and ICLR with them. Workshop proceedings are published in [PMLR](https://proceedings.mlr.press/).
+I am an active member of the [ICBINB initiative](https://icbinb.github.io/) in the field of machine-learning since April 2023 and organized workshops at NeurIPS and ICLR with them.  
+
+Specifically I was an organizer for the [NeurIPS 2023 workshop](https://sites.google.com/view/icbinb-2023), the [ICLR 2025 workshop](https://sites.google.com/view/icbinb-2025) and an advisor for the [ICLR 2026 workshop](https://sites.google.com/view/icbinb-2026/home), at which we broke 100+ submissions.
+
+Workshop proceedings are typically published in [PMLR](https://proceedings.mlr.press/).
 <br>
 <br>
 ## Reviewer
