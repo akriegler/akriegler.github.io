@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-05'
+  last_updated: '2026-06-19'
 papers:
   xzhMsboAAAAJ:0EnyYjriUFMC:
     citations: 11
@@ -17,6 +17,10 @@ papers:
     citations: 10
     title: Towards scene understanding for autonomous operations on airport aprons
     year: '2022'
+  xzhMsboAAAAJ:ULOm3_A8WrAC:
+    citations: 0
+    title: 'SARR: A Symmetry-Aware Rotation Representation for Improved 6D Object Pose Estimation'
+    year: '2026'
   xzhMsboAAAAJ:UeHWp8X0CEIC:
     citations: 3
     title: Evaluation of monocular and stereo depth data for geometry-assisted learning of 3D pose
