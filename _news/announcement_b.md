@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-03-24
+date: 2026-08-07
 inline: true
 related_posts: false
 ---
 
-We (CVL - TU Wien) showcased our human pose imitation system using a Pepper robot at the science fair [**Wiener Forschungsfest 2025**](https://www.tuwien.at/tu-wien/aktuelles/news/das-war-das-wiener-forschungsfest-2025), as part of the [Caring Robots](https://www.caringrobots.eu) project.
+A paper was accepted for the doctoral consortium at the [ECCV26 ACVR workshop](https://iplab.dmi.unict.it/acvr2026/index.html). In connection with the document, I will give an oral presentation on September 8th discussing my PhD research.
