@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-10'
 papers:
   xzhMsboAAAAJ:0EnyYjriUFMC:
     citations: 12
@@ -11,7 +11,7 @@ papers:
     year: '2022'
   xzhMsboAAAAJ:IjCSPb-OGe4C:
     citations: 1
-    title: Pose-aware object recognition on a mobile platform via learned geometric representations*
+    title: Pose-aware object recognition on a mobile platform via learned geometric representations
     year: '2022'
   xzhMsboAAAAJ:MXK_kJrjxJIC:
     citations: 11
@@ -25,6 +25,10 @@ papers:
     citations: 1
     title: 'PrimitivePose: Generic Model and Representation for 3D Bounding Box Prediction of Unseen Objects'
     year: '2023'
+  xzhMsboAAAAJ:YOwf2qJgpHMC:
+    citations: 0
+    title: Visual Semantic Context Encoding for Data Harvesting and Domain Prediction
+    year: '2020'
   xzhMsboAAAAJ:YsMSGLbcyi4C:
     citations: 0
     title: 'FH Technikum Wien: Artificial Neural Networks Based State Transition Modeling and Place Categorization'
