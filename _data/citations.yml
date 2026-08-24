@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-24'
 papers:
   xzhMsboAAAAJ:0EnyYjriUFMC:
     citations: 13
@@ -34,7 +34,7 @@ papers:
     title: 'FH Technikum Wien: Artificial Neural Networks Based State Transition Modeling and Place Categorization'
     year: '2018'
   xzhMsboAAAAJ:Zph67rFs4hoC:
-    citations: 0
+    citations: 1
     title: 'Towards Symmetry-sensitive Pose Estimation: A Rotation Representation for Symmetric Object Classes'
     year: '2026'
   xzhMsboAAAAJ:_FxGoFyzp5QC:
