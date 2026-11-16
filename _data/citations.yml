@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-11-09'
+  last_updated: '2026-11-16'
 papers:
   xzhMsboAAAAJ:0EnyYjriUFMC:
     citations: 15
@@ -46,7 +46,7 @@ papers:
     title: 'The Aircraft Context Dataset: Understanding and Optimizing Data Variability in Aerial Domains'
     year: '2021'
   xzhMsboAAAAJ:eQOLeE2rZwMC:
-    citations: 6
+    citations: 7
     title: Vision-based Docking of a Mobile Robot
     year: '2020'
   xzhMsboAAAAJ:roLk4NBRz8UC:
